@@ -280,8 +280,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='12' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='99200' id='13' param='vert' type='layout-flow' w='98858' x='571' y='400'>
+            <zone h='100000' id='14' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='99200' id='15' param='vert' type='layout-flow' w='98858' x='571' y='400'>
                 <zone fixed-size='280' h='99200' id='3' is-fixed='true' name='Disaster Impact KPI' w='98858' x='571' y='400'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
