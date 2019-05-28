@@ -1,0 +1,2575 @@
+"","GeoAreaCode","GeoAreaName","TimePeriod","Number_of_deaths","Hazard","sumofalldeaths"
+"1",8,"Albania",2005,2,"ACIDT",21
+"2",8,"Albania",2006,1,"AVALE",6
+"3",8,"Albania",2007,1,"LNDSL",6
+"4",8,"Albania",2008,16,"OTHER",48
+"5",8,"Albania",2009,2,"FLSFL",15
+"6",8,"Albania",2010,9,"ACIDT",39
+"7",8,"Albania",2011,12,"ACIDT",63
+"8",8,"Albania",2012,3,"SNSTM",24
+"9",8,"Albania",2013,5,"CONTM",27
+"10",8,"Albania",2014,4,"ACIDT",27
+"11",8,"Albania",2015,3,"FIREX",36
+"12",8,"Albania",2016,3,"ACIDT",21
+"13",16,"American Samoa",2009,180,"TSUNM",540
+"14",16,"American Samoa",2014,0,"CYCLN",0
+"15",16,"American Samoa",2015,4,"EPIDM",12
+"16",24,"Angola",2005,237,"FLSFL",1392
+"17",24,"Angola",2007,262,"HEVRN",1440
+"18",24,"Angola",2008,80,"FLSFL",384
+"19",24,"Angola",2009,14,"FLSFL",63
+"20",24,"Angola",2010,134,"EPIDM",639
+"21",24,"Angola",2011,55,"EPIDM",336
+"22",24,"Angola",2012,95,"FLSFL",663
+"23",24,"Angola",2013,125,"FLSFL",630
+"24",24,"Angola",2014,137,"HEVRN",579
+"25",24,"Angola",2015,143,"FLOOD",888
+"26",24,"Angola",2016,133,"ELEST",1620
+"27",24,"Angola",2017,21,"EPIDM",186
+"28",28,"Antigua and Barbuda",2005,0,"BIOGL",0
+"29",28,"Antigua and Barbuda",2008,0,"CYCLN",0
+"30",28,"Antigua and Barbuda",2009,1,"ACIDT",6
+"31",28,"Antigua and Barbuda",2010,3,"ACIDT",24
+"32",28,"Antigua and Barbuda",2011,1,"ACIDT",3
+"33",28,"Antigua and Barbuda",2012,1,"ACIDT",3
+"34",28,"Antigua and Barbuda",2013,4,"FIREX",12
+"35",28,"Antigua and Barbuda",2014,3,"FIREX",9
+"36",31,"Azerbaijan",2017,0,"CSOLD",0
+"37",32,"Argentina",2005,72,"FIREX",573
+"38",32,"Argentina",2006,37,"FIREX",375
+"39",32,"Argentina",2007,96,"FIREX",1131
+"40",32,"Argentina",2008,56,"FIREX",720
+"41",32,"Argentina",2009,276,"EPIDM",1239
+"42",40,"Austria",2017,0,"CSOLD",0
+"43",51,"Armenia",2017,302,"CSOLD",906
+"44",52,"Barbados",2005,4,"FIREX",12
+"45",52,"Barbados",2006,1,"EXPLN",6
+"46",52,"Barbados",2007,5,"LNDSL",18
+"47",52,"Barbados",2008,4,"FIREX",15
+"48",52,"Barbados",2009,1,"FIREX",3
+"49",52,"Barbados",2010,7,"FIREX",21
+"50",52,"Barbados",2011,0,"LNDSL",0
+"51",52,"Barbados",2012,0,"FIREX",0
+"52",52,"Barbados",2013,0,"EXPLN",0
+"53",64,"Bhutan",2009,14,"ERQAK",78
+"54",64,"Bhutan",2010,2,"FIREX",6
+"55",64,"Bhutan",2011,9,"FIREX",36
+"56",64,"Bhutan",2012,0,"FIREX",0
+"57",64,"Bhutan",2013,0,"FLOOD",0
+"58",64,"Bhutan",2014,1,"WNDST",3
+"59",64,"Bhutan",2015,0,"FIREX",0
+"60",64,"Bhutan",2016,5,"FIREX",15
+"61",64,"Bhutan",2017,11,"CSOLD",33
+"62",68,"Bolivia (Plurinational State of)",2005,44,"FLOOD",186
+"63",68,"Bolivia (Plurinational State of)",2006,18,"FLOOD",117
+"64",68,"Bolivia (Plurinational State of)",2007,19,"CONTM",243
+"65",68,"Bolivia (Plurinational State of)",2008,51,"FLOOD",378
+"66",68,"Bolivia (Plurinational State of)",2009,11,"FLSFL",93
+"67",68,"Bolivia (Plurinational State of)",2010,19,"FLSFL",132
+"68",68,"Bolivia (Plurinational State of)",2011,56,"EPIDM",402
+"69",68,"Bolivia (Plurinational State of)",2012,57,"EPIDM",282
+"70",68,"Bolivia (Plurinational State of)",2013,10,"ACIDT",33
+"71",72,"Botswana",2013,0,"HAILS",0
+"72",72,"Botswana",2014,0,"ANIAK",0
+"73",72,"Botswana",2015,0,"HAILS",0
+"74",72,"Botswana",2016,0,"HAILS",0
+"75",72,"Botswana",2017,1,"HAILS",3
+"76",84,"Belize",2005,3,"ACIDT",9
+"77",84,"Belize",2007,0,"CHESP",0
+"78",84,"Belize",2008,7,"FLOOD",21
+"79",84,"Belize",2009,0,"ERQAK",0
+"80",84,"Belize",2010,4,"ACIDT",12
+"81",84,"Belize",2011,1,"ACIDT",3
+"82",90,"Solomon Islands",2006,0,"CYCLN",0
+"83",90,"Solomon Islands",2007,92,"TSUNM",432
+"84",90,"Solomon Islands",2008,0,"ERQAK",0
+"85",90,"Solomon Islands",2009,53,"FLOOD",159
+"86",90,"Solomon Islands",2010,6,"FLOOD",18
+"87",90,"Solomon Islands",2011,2,"TSUNM",6
+"88",90,"Solomon Islands",2012,1,"CYCLN",3
+"89",90,"Solomon Islands",2013,14,"TSUNM",72
+"90",90,"Solomon Islands",2014,22,"FLOOD",66
+"91",100,"Bulgaria",2017,0,"CSOLD",0
+"92",104,"Myanmar",2005,17,"FIREX",51
+"93",104,"Myanmar",2006,1,"FIREX",3
+"94",104,"Myanmar",2007,18,"FIREX",54
+"95",104,"Myanmar",2008,139715,"CYCLN",419220
+"96",104,"Myanmar",2009,47,"FIREX",153
+"97",104,"Myanmar",2010,142,"FIREX",471
+"98",104,"Myanmar",2011,269,"EPIDM",1140
+"99",104,"Myanmar",2012,21,"ELEST",138
+"100",104,"Myanmar",2013,117,"FIREX",711
+"101",104,"Myanmar",2014,114,"ELEST",606
+"102",104,"Myanmar",2015,97,"ELEST",1200
+"103",104,"Myanmar",2016,338,"OTHER",2217
+"104",104,"Myanmar",2017,329,"OTHER",2241
+"105",116,"Cambodia",2005,29,"DROUG",87
+"106",116,"Cambodia",2006,29,"DROUG",87
+"107",116,"Cambodia",2007,33,"DROUG",99
+"108",116,"Cambodia",2008,49,"DROUG",147
+"109",116,"Cambodia",2009,177,"DROUG",531
+"110",116,"Cambodia",2010,91,"DROUG",273
+"111",116,"Cambodia",2011,458,"DROUG",1374
+"112",116,"Cambodia",2012,192,"DROUG",576
+"113",116,"Cambodia",2013,375,"DROUG",1125
+"114",116,"Cambodia",2014,130,"DROUG",390
+"115",116,"Cambodia",2015,101,"DROUG",303
+"116",116,"Cambodia",2016,52,"DROUG",156
+"117",116,"Cambodia",2017,98,"DROUG",294
+"118",132,"Cabo Verde",2006,0,"ACIDT",0
+"119",132,"Cabo Verde",2008,0,"ACIDT",0
+"120",132,"Cabo Verde",2009,3,"LNDSL",9
+"121",132,"Cabo Verde",2014,0,"VOLER",0
+"122",132,"Cabo Verde",2015,15,"ACIDT",45
+"123",132,"Cabo Verde",2017,1,"STCOL",3
+"124",144,"Sri Lanka",2005,82,"ANIAK",372
+"125",144,"Sri Lanka",2006,77,"ANIAK",516
+"126",144,"Sri Lanka",2007,37,"LNDSL",420
+"127",144,"Sri Lanka",2008,47,"FLOOD",351
+"128",144,"Sri Lanka",2009,17,"ELEST",186
+"129",144,"Sri Lanka",2010,25,"FLOOD",204
+"130",144,"Sri Lanka",2011,41,"FLOOD",390
+"131",144,"Sri Lanka",2012,68,"ELEST",453
+"132",144,"Sri Lanka",2013,97,"WNDST",423
+"133",144,"Sri Lanka",2014,61,"LNDSL",465
+"134",144,"Sri Lanka",2015,48,"ACIDT",369
+"135",144,"Sri Lanka",2016,184,"LNDSL",789
+"136",144,"Sri Lanka",2017,207,"FLOOD",1527
+"137",152,"Chile",2005,63,"ACIDT",399
+"138",152,"Chile",2006,36,"FIREX",255
+"139",152,"Chile",2007,79,"FIREX",429
+"140",152,"Chile",2008,50,"FIREX",252
+"141",152,"Chile",2009,30,"EPIDM",231
+"142",152,"Chile",2010,1019,"ERQAK",3228
+"143",152,"Chile",2011,35,"FIREX",135
+"144",152,"Chile",2012,31,"ACIDT",144
+"145",152,"Chile",2013,3,"FLOOD",24
+"146",152,"Chile",2014,15,"WLDFR",78
+"147",152,"Chile",2017,49,"CSOLD",147
+"148",170,"Colombia",2005,117,"LNDSL",1092
+"149",170,"Colombia",2006,147,"LNDSL",789
+"150",170,"Colombia",2007,126,"LNDSL",891
+"151",170,"Colombia",2008,157,"LNDSL",1059
+"152",170,"Colombia",2009,91,"FLOOD",1185
+"153",170,"Colombia",2010,275,"LNDSL",1575
+"154",170,"Colombia",2011,293,"LNDSL",1827
+"155",170,"Colombia",2012,94,"LNDSL",855
+"156",170,"Colombia",2013,74,"LNDSL",783
+"157",170,"Colombia",2014,102,"LNDSL",1137
+"158",170,"Colombia",2015,114,"FLSFL",840
+"159",170,"Colombia",2016,25,"FLSFL",75
+"160",170,"Colombia",2017,439,"FLSFL",1317
+"161",174,"Comoros",2005,0,"VOLER",0
+"162",174,"Comoros",2006,0,"VOLER",0
+"163",174,"Comoros",2007,1,"PLGUE",3
+"164",174,"Comoros",2008,0,"ACIDT",0
+"165",174,"Comoros",2009,152,"ACIDT",456
+"166",174,"Comoros",2011,121,"ACIDT",471
+"167",174,"Comoros",2012,2,"FLOOD",6
+"168",174,"Comoros",2013,4,"FIREX",12
+"169",174,"Comoros",2014,2,"ELEST",15
+"170",184,"Cook Islands",2005,0,"CYCLN",0
+"171",184,"Cook Islands",2007,0,"CYCLN",0
+"172",184,"Cook Islands",2009,0,"ERQAK",0
+"173",184,"Cook Islands",2010,3,"CYCLN",9
+"174",188,"Costa Rica",2005,5,"FLOOD",30
+"175",188,"Costa Rica",2006,4,"EXPLN",21
+"176",188,"Costa Rica",2007,15,"FLOOD",96
+"177",188,"Costa Rica",2008,5,"LNDSL",36
+"178",188,"Costa Rica",2009,23,"ERQAK",105
+"179",188,"Costa Rica",2010,33,"LNDSL",129
+"180",188,"Costa Rica",2011,4,"ELEST",33
+"181",188,"Costa Rica",2012,7,"FLSFL",51
+"182",188,"Costa Rica",2013,5,"EXPLN",36
+"183",188,"Costa Rica",2014,6,"ELEST",36
+"184",188,"Costa Rica",2015,5,"COSFL",24
+"185",188,"Costa Rica",2016,11,"FLSFL",57
+"186",188,"Costa Rica",2017,1,"WNDST",3
+"187",191,"Croatia",2016,0,"CSOLD",0
+"188",191,"Croatia",2017,25,"CSOLD",75
+"189",196,"Cyprus",2005,1,"CSOLD",3
+"190",196,"Cyprus",2006,1,"CSOLD",3
+"191",196,"Cyprus",2007,0,"CSOLD",0
+"192",196,"Cyprus",2008,1,"CSOLD",3
+"193",196,"Cyprus",2009,1,"CSOLD",3
+"194",196,"Cyprus",2010,0,"CSOLD",0
+"195",196,"Cyprus",2011,13,"CSOLD",39
+"196",196,"Cyprus",2012,0,"CSOLD",0
+"197",196,"Cyprus",2013,1,"CSOLD",3
+"198",196,"Cyprus",2014,0,"CSOLD",0
+"199",196,"Cyprus",2015,0,"CSOLD",0
+"200",196,"Cyprus",2016,2,"CSOLD",6
+"201",196,"Cyprus",2017,0,"CSOLD",0
+"202",208,"Denmark",2017,0,"CSOLD",0
+"203",212,"Dominica",2007,2,"CYCLN",6
+"204",212,"Dominica",2009,0,"FIREX",0
+"205",212,"Dominica",2010,3,"LNDSL",18
+"206",212,"Dominica",2011,2,"BIOGL",15
+"207",212,"Dominica",2012,2,"ACIDT",9
+"208",212,"Dominica",2013,2,"LNDSL",6
+"209",212,"Dominica",2014,0,"FIREX",0
+"210",218,"Ecuador",2005,24,"FIREX",204
+"211",218,"Ecuador",2006,31,"VOLER",246
+"212",218,"Ecuador",2007,8,"LNDSL",108
+"213",218,"Ecuador",2008,37,"ACIDT",543
+"214",218,"Ecuador",2009,19,"OTHER",207
+"215",218,"Ecuador",2010,58,"ACIDT",429
+"216",218,"Ecuador",2011,140,"OTHER",1278
+"217",218,"Ecuador",2012,517,"ACIDT",2022
+"218",218,"Ecuador",2013,450,"ACIDT",1908
+"219",218,"Ecuador",2014,395,"ACIDT",1713
+"220",218,"Ecuador",2015,368,"ACIDT",1656
+"221",218,"Ecuador",2016,489,"ERQAK",3024
+"222",218,"Ecuador",2017,166,"ACIDT",810
+"223",222,"El Salvador",2005,157,"FLOOD",798
+"224",222,"El Salvador",2006,44,"EPIDM",204
+"225",222,"El Salvador",2007,9,"FLOOD",69
+"226",222,"El Salvador",2008,52,"FLOOD",222
+"227",222,"El Salvador",2009,22,"LNDSL",231
+"228",222,"El Salvador",2010,11,"FLOOD",168
+"229",222,"El Salvador",2011,19,"FLSFL",195
+"230",222,"El Salvador",2012,7,"OTHER",84
+"231",222,"El Salvador",2013,5,"FLSFL",30
+"232",222,"El Salvador",2014,6,"OTHER",63
+"233",222,"El Salvador",2015,3,"COSFL",15
+"234",226,"Equatorial Guinea",2010,0,"FLOOD",0
+"235",226,"Equatorial Guinea",2012,1,"FIREX",3
+"236",226,"Equatorial Guinea",2013,0,"FIREX",0
+"237",226,"Equatorial Guinea",2014,0,"FIREX",0
+"238",226,"Equatorial Guinea",2015,4,"EPIDM",12
+"239",226,"Equatorial Guinea",2016,11,"FIREX",33
+"240",226,"Equatorial Guinea",2017,15,"ACIDT",51
+"241",231,"Ethiopia",2005,456,"FLOOD",1425
+"242",231,"Ethiopia",2006,1605,"FLOOD",5121
+"243",231,"Ethiopia",2007,82,"FIREX",513
+"244",231,"Ethiopia",2008,128,"FIREX",435
+"245",231,"Ethiopia",2009,4,"FIREX",18
+"246",231,"Ethiopia",2010,49,"LNDSL",186
+"247",231,"Ethiopia",2011,0,"FIREX",0
+"248",231,"Ethiopia",2012,0,"FLOOD",0
+"249",231,"Ethiopia",2013,0,"LNDSL",0
+"250",242,"Fiji",2005,3,"FLOOD",9
+"251",242,"Fiji",2006,4,"CYCLN",24
+"252",242,"Fiji",2007,73,"CYCLN",249
+"253",242,"Fiji",2008,14,"CYCLN",42
+"254",242,"Fiji",2009,22,"FLOOD",84
+"255",242,"Fiji",2010,4,"CYCLN",12
+"256",242,"Fiji",2011,1,"FLOOD",3
+"257",242,"Fiji",2012,19,"FLOOD",84
+"258",242,"Fiji",2013,0,"CYCLN",0
+"259",242,"Fiji",2014,0,"FLOOD",0
+"260",258,"French Polynesia",2007,20,"ACIDT",60
+"261",262,"Djibouti",2005,40,"ACIDT",150
+"262",262,"Djibouti",2006,120,"ACIDT",408
+"263",262,"Djibouti",2007,21,"EPIDM",84
+"264",262,"Djibouti",2008,8,"EPIDM",75
+"265",262,"Djibouti",2009,26,"EPIDM",171
+"266",262,"Djibouti",2010,64,"ACIDT",207
+"267",262,"Djibouti",2011,119,"DROUG",615
+"268",262,"Djibouti",2012,28,"ACIDT",84
+"269",270,"Gambia",2017,2,"FIREX",12
+"270",275,"State of Palestine",2005,0,"STCOL",0
+"271",275,"State of Palestine",2006,1,"FLOOD",3
+"272",275,"State of Palestine",2007,0,"FIREX",0
+"273",275,"State of Palestine",2008,2,"COLDW",6
+"274",275,"State of Palestine",2009,1,"FLOOD",3
+"275",275,"State of Palestine",2010,1,"EXPLN",3
+"276",275,"State of Palestine",2011,0,"LNDSL",0
+"277",275,"State of Palestine",2012,0,"FIREX",0
+"278",275,"State of Palestine",2013,3,"FLOOD",12
+"279",276,"Germany",2017,0,"CSOLD",0
+"280",296,"Kiribati",2008,0,"COSFL",0
+"281",296,"Kiribati",2014,0,"COSFL",0
+"282",308,"Grenada",2005,2,"CYCLN",6
+"283",308,"Grenada",2007,1,"FIREX",3
+"284",308,"Grenada",2008,0,"COSER",0
+"285",308,"Grenada",2009,0,"BIOGL",0
+"286",308,"Grenada",2010,0,"DROUG",0
+"287",308,"Grenada",2011,0,"FLOOD",0
+"288",308,"Grenada",2012,0,"STORM",0
+"289",308,"Grenada",2014,0,"EPIDM",0
+"290",316,"Guam",2015,0,"CYCLN",0
+"291",320,"Guatemala",2005,1207,"HEVRN",3864
+"292",320,"Guatemala",2006,30,"FIREX",222
+"293",320,"Guatemala",2007,29,"LNDSL",138
+"294",320,"Guatemala",2008,89,"LNDSL",390
+"295",320,"Guatemala",2009,77,"LNDSL",276
+"296",320,"Guatemala",2010,189,"HEVRN",909
+"297",320,"Guatemala",2011,53,"LNDSL",348
+"298",320,"Guatemala",2012,45,"ERQAK",258
+"299",320,"Guatemala",2013,23,"LNDSL",213
+"300",320,"Guatemala",2017,15,"CSOLD",45
+"301",324,"Guinea",2014,1760,"PLGUE",5280
+"302",324,"Guinea",2015,56,"PLGUE",168
+"303",328,"Guyana",2005,23,"EPIDM",102
+"304",328,"Guyana",2006,11,"FIREX",36
+"305",328,"Guyana",2007,2,"FIREX",15
+"306",328,"Guyana",2008,8,"FIREX",24
+"307",328,"Guyana",2009,8,"FIREX",24
+"308",328,"Guyana",2010,3,"FIREX",9
+"309",328,"Guyana",2011,11,"FIREX",36
+"310",328,"Guyana",2012,3,"FIREX",12
+"311",328,"Guyana",2013,3,"CONTM",9
+"312",340,"Honduras",2005,55,"LNDSL",354
+"313",340,"Honduras",2006,27,"FLOOD",81
+"314",340,"Honduras",2007,12,"FLOOD",36
+"315",340,"Honduras",2008,273,"EPIDM",1572
+"316",340,"Honduras",2009,8,"ERQAK",57
+"317",340,"Honduras",2010,67,"EPIDM",423
+"318",340,"Honduras",2011,596,"FLOOD",1914
+"319",340,"Honduras",2012,500,"EPIDM",2982
+"320",340,"Honduras",2013,52,"FLOOD",291
+"321",364,"Iran (Islamic Republic of)",2005,252,"FLOOD",1938
+"322",364,"Iran (Islamic Republic of)",2006,186,"ACIDT",933
+"323",364,"Iran (Islamic Republic of)",2007,116,"FLOOD",1068
+"324",364,"Iran (Islamic Republic of)",2008,167,"FLOOD",1245
+"325",364,"Iran (Islamic Republic of)",2009,44,"FLOOD",234
+"326",364,"Iran (Islamic Republic of)",2010,29,"ACIDT",279
+"327",364,"Iran (Islamic Republic of)",2011,6,"FLOOD",18
+"328",372,"Ireland",2017,3,"CSOLD",9
+"329",388,"Jamaica",2005,9,"CYCLN",27
+"330",388,"Jamaica",2006,44,"FIREX",135
+"331",388,"Jamaica",2007,6,"CYCLN",18
+"332",388,"Jamaica",2008,16,"STORM",48
+"333",388,"Jamaica",2009,52,"FIREX",156
+"334",388,"Jamaica",2010,17,"STORM",51
+"335",388,"Jamaica",2011,21,"FIREX",63
+"336",388,"Jamaica",2012,1,"CYCLN",3
+"337",388,"Jamaica",2014,0,"FLOOD",0
+"338",398,"Kazakhstan",2005,2,"ACIDT",18
+"339",398,"Kazakhstan",2006,14,"ACIDT",66
+"340",398,"Kazakhstan",2007,10,"ACIDT",51
+"341",398,"Kazakhstan",2008,4,"FIREX",33
+"342",398,"Kazakhstan",2009,7,"ACIDT",27
+"343",398,"Kazakhstan",2010,4,"ACIDT",27
+"344",398,"Kazakhstan",2011,10,"FIREX",42
+"345",398,"Kazakhstan",2012,6,"FIREX",27
+"346",398,"Kazakhstan",2013,4,"FIREX",18
+"347",398,"Kazakhstan",2014,2,"DROUG",6
+"348",398,"Kazakhstan",2015,3,"FIREX",12
+"349",398,"Kazakhstan",2016,7,"FIREX",24
+"350",398,"Kazakhstan",2017,29,"CSOLD",87
+"351",400,"Jordan",2005,0,"ERQAK",0
+"352",400,"Jordan",2006,0,"HEVRN",0
+"353",400,"Jordan",2007,4,"FLOOD",18
+"354",400,"Jordan",2008,13,"EPIDM",39
+"355",400,"Jordan",2009,0,"FLSFL",0
+"356",400,"Jordan",2010,25,"SNSTM",117
+"357",400,"Jordan",2011,2,"STCOL",9
+"358",400,"Jordan",2012,0,"SNSTM",0
+"359",400,"Jordan",2016,99,"CSOLD",297
+"360",400,"Jordan",2017,33,"CSOLD",99
+"361",404,"Kenya",2005,11,"FLOOD",33
+"362",404,"Kenya",2006,17,"FLOOD",51
+"363",404,"Kenya",2007,11,"LNDSL",33
+"364",404,"Kenya",2008,28,"FLOOD",186
+"365",404,"Kenya",2009,201,"EPIDM",846
+"366",404,"Kenya",2010,92,"FLOOD",462
+"367",404,"Kenya",2011,25,"ELEST",117
+"368",404,"Kenya",2012,23,"FLOOD",75
+"369",404,"Kenya",2013,158,"FLOOD",543
+"370",404,"Kenya",2014,121,"ACIDT",672
+"371",404,"Kenya",2015,411,"ACIDT",2169
+"372",404,"Kenya",2016,489,"ACIDT",2019
+"373",404,"Kenya",2017,21,"ACIDT",63
+"374",410,"Republic of Korea",2016,0,"CSOLD",0
+"375",410,"Republic of Korea",2017,55,"CSOLD",165
+"376",414,"Kuwait",2017,0,"CSOLD",0
+"377",417,"Kyrgyzstan",2005,0,"ACIDT",0
+"378",417,"Kyrgyzstan",2006,1,"AVALE",3
+"379",417,"Kyrgyzstan",2007,0,"LNDSL",0
+"380",417,"Kyrgyzstan",2008,7,"FIREX",39
+"381",417,"Kyrgyzstan",2009,0,"AVALE",0
+"382",417,"Kyrgyzstan",2010,0,"FLOOD",0
+"383",417,"Kyrgyzstan",2011,2,"FIREX",6
+"384",417,"Kyrgyzstan",2012,0,"LNDSL",0
+"385",417,"Kyrgyzstan",2013,0,"PLGUE",0
+"386",417,"Kyrgyzstan",2014,0,"PLGUE",0
+"387",417,"Kyrgyzstan",2015,1,"AVALE",3
+"388",417,"Kyrgyzstan",2016,1,"CYCLN",6
+"389",418,"Lao People's Democratic Republic",2005,6,"EPIDM",57
+"390",418,"Lao People's Democratic Republic",2006,10,"ACIDT",48
+"391",418,"Lao People's Democratic Republic",2007,10,"ACIDT",84
+"392",418,"Lao People's Democratic Republic",2008,30,"FLOOD",135
+"393",418,"Lao People's Democratic Republic",2009,28,"FLOOD",177
+"394",418,"Lao People's Democratic Republic",2010,20,"STORM",156
+"395",418,"Lao People's Democratic Republic",2011,16,"FLOOD",90
+"396",418,"Lao People's Democratic Republic",2012,50,"FLOOD",150
+"397",422,"Lebanon",2005,1,"WLDFR",3
+"398",422,"Lebanon",2006,3,"SNSTM",15
+"399",422,"Lebanon",2007,0,"EROSN",0
+"400",422,"Lebanon",2008,3,"SNSTM",12
+"401",422,"Lebanon",2009,0,"EROSN",0
+"402",422,"Lebanon",2010,0,"SNSTM",0
+"403",422,"Lebanon",2011,0,"FLOOD",0
+"404",422,"Lebanon",2012,1,"STORM",3
+"405",422,"Lebanon",2013,1,"SNSTM",3
+"406",422,"Lebanon",2014,0,"FLOOD",0
+"407",430,"Liberia",2014,3441,"EPIDM",10323
+"408",430,"Liberia",2015,41,"EPIDM",123
+"409",430,"Liberia",2016,0,"ANIAK",0
+"410",450,"Madagascar",2005,295,"CYCLN",945
+"411",450,"Madagascar",2006,19,"CYCLN",57
+"412",450,"Madagascar",2007,181,"CYCLN",543
+"413",450,"Madagascar",2008,282,"CYCLN",939
+"414",450,"Madagascar",2009,40,"FIREX",231
+"415",450,"Madagascar",2010,131,"CYCLN",534
+"416",450,"Madagascar",2011,90,"EPIDM",372
+"417",450,"Madagascar",2012,117,"CYCLN",516
+"418",450,"Madagascar",2013,61,"EPIDM",345
+"419",450,"Madagascar",2014,89,"EPIDM",384
+"420",450,"Madagascar",2015,103,"DROUG",672
+"421",454,"Malawi",2017,0,"CSOLD",0
+"422",458,"Malaysia",2016,0,"CSOLD",0
+"423",458,"Malaysia",2017,31,"CSOLD",93
+"424",462,"Maldives",2005,1,"FIREX",3
+"425",462,"Maldives",2006,22,"ACIDT",69
+"426",462,"Maldives",2007,1,"FIREX",3
+"427",462,"Maldives",2008,3,"ACIDT",12
+"428",462,"Maldives",2017,0,"CSOLD",0
+"429",466,"Mali",2005,16,"EPIDM",69
+"430",466,"Mali",2006,4,"EPIDM",24
+"431",466,"Mali",2007,65,"EPIDM",231
+"432",466,"Mali",2008,37,"EPIDM",129
+"433",466,"Mali",2009,31,"FLOOD",93
+"434",466,"Mali",2010,131,"FLOOD",396
+"435",466,"Mali",2011,24,"EPIDM",99
+"436",466,"Mali",2012,21,"FLOOD",63
+"437",466,"Mali",2013,61,"FLOOD",183
+"438",466,"Mali",2014,17,"FLOOD",51
+"439",480,"Mauritius",2005,7,"ACIDT",24
+"440",480,"Mauritius",2006,4,"FIREX",21
+"441",480,"Mauritius",2007,132,"ACIDT",477
+"442",480,"Mauritius",2008,10,"ACIDT",72
+"443",480,"Mauritius",2009,139,"ACIDT",459
+"444",480,"Mauritius",2010,137,"ACIDT",426
+"445",480,"Mauritius",2011,5,"FIREX",24
+"446",480,"Mauritius",2012,134,"ACIDT",429
+"447",480,"Mauritius",2013,22,"FLSFL",78
+"448",480,"Mauritius",2014,10,"ACIDT",30
+"449",484,"Mexico",2005,150,"FLOOD",3459
+"450",484,"Mexico",2006,228,"FROST",3258
+"451",484,"Mexico",2007,202,"ACIDT",3537
+"452",484,"Mexico",2008,4001,"CONTM",14262
+"453",484,"Mexico",2009,877,"EPIDM",3831
+"454",484,"Mexico",2010,291,"LNDSL",3747
+"455",484,"Mexico",2011,113,"FIREX",1890
+"456",484,"Mexico",2012,81,"FIREX",1032
+"457",484,"Mexico",2013,200,"CONTM",3132
+"458",484,"Mexico",2017,814,"CSOLD",2442
+"459",496,"Mongolia",2006,78,"ACIDT",315
+"460",496,"Mongolia",2007,6,"STORM",24
+"461",496,"Mongolia",2008,111,"ACIDT",570
+"462",496,"Mongolia",2009,0,"ACIDT",0
+"463",496,"Mongolia",2010,130,"ACIDT",444
+"464",496,"Mongolia",2012,128,"ACIDT",465
+"465",496,"Mongolia",2013,2,"FIREX",6
+"466",496,"Mongolia",2014,87,"ACIDT",288
+"467",496,"Mongolia",2015,54,"ACIDT",189
+"468",496,"Mongolia",2016,1,"ACIDT",6
+"469",504,"Morocco",2005,0,"FIREX",0
+"470",504,"Morocco",2006,0,"WLDFR",0
+"471",504,"Morocco",2007,0,"FLOOD",0
+"472",504,"Morocco",2008,58,"FIREX",177
+"473",504,"Morocco",2009,102,"FLOOD",306
+"474",504,"Morocco",2010,46,"FLOOD",138
+"475",504,"Morocco",2011,8,"FLOOD",24
+"476",504,"Morocco",2012,3,"FLOOD",9
+"477",504,"Morocco",2013,3,"FIREX",15
+"478",504,"Morocco",2014,1,"FLOOD",3
+"479",508,"Mozambique",2005,1041,"EPIDM",3741
+"480",508,"Mozambique",2006,712,"EPIDM",2733
+"481",508,"Mozambique",2007,734,"EPIDM",3273
+"482",508,"Mozambique",2008,885,"EPIDM",3609
+"483",508,"Mozambique",2009,468,"EPIDM",1884
+"484",508,"Mozambique",2010,5,"EPIDM",57
+"485",508,"Mozambique",2011,6,"FLSFL",57
+"486",508,"Mozambique",2012,18,"FLSFL",84
+"487",508,"Mozambique",2017,31,"CSOLD",93
+"488",524,"Nepal",2005,132,"ACIDT",1299
+"489",524,"Nepal",2006,267,"EPIDM",2100
+"490",524,"Nepal",2007,226,"EPIDM",2187
+"491",524,"Nepal",2008,282,"ACIDT",3183
+"492",524,"Nepal",2009,446,"EPIDM",4200
+"493",524,"Nepal",2010,447,"ACIDT",3432
+"494",524,"Nepal",2011,444,"ACIDT",3486
+"495",524,"Nepal",2012,338,"ACIDT",2760
+"496",524,"Nepal",2013,168,"ACIDT",2211
+"497",540,"New Caledonia",2008,0,"ERQAK",0
+"498",540,"New Caledonia",2009,4,"EPIDM",12
+"499",540,"New Caledonia",2011,3,"EPIDM",9
+"500",548,"Vanuatu",2005,0,"VOLER",0
+"501",548,"Vanuatu",2006,2,"VOLER",6
+"502",548,"Vanuatu",2007,0,"TSUNM",0
+"503",548,"Vanuatu",2008,0,"ERQAK",0
+"504",548,"Vanuatu",2009,0,"ERQAK",0
+"505",548,"Vanuatu",2010,0,"ERQAK",0
+"506",548,"Vanuatu",2011,1,"CYCLN",3
+"507",548,"Vanuatu",2012,0,"CYCLN",0
+"508",548,"Vanuatu",2014,12,"CYCLN",39
+"509",548,"Vanuatu",2015,11,"CYCLN",33
+"510",554,"New Zealand",2017,1,"CSOLD",3
+"511",558,"Nicaragua",2005,6,"COSFL",27
+"512",558,"Nicaragua",2006,44,"CONTM",138
+"513",558,"Nicaragua",2007,1341,"FLOOD",4053
+"514",558,"Nicaragua",2008,13,"FLOOD",81
+"515",558,"Nicaragua",2009,3,"FLOOD",18
+"516",558,"Nicaragua",2010,13,"FLOOD",72
+"517",558,"Nicaragua",2011,11,"FLOOD",45
+"518",558,"Nicaragua",2012,5,"FLSFL",54
+"519",558,"Nicaragua",2013,21,"EPIDM",117
+"520",562,"Niger",2005,218,"EPIDM",654
+"521",562,"Niger",2006,502,"EPIDM",1518
+"522",562,"Niger",2007,256,"EPIDM",777
+"523",562,"Niger",2008,576,"EPIDM",1734
+"524",562,"Niger",2009,888,"EPIDM",2664
+"525",562,"Niger",2010,882,"EPIDM",2658
+"526",562,"Niger",2011,668,"EPIDM",2103
+"527",562,"Niger",2012,438,"EPIDM",1650
+"528",562,"Niger",2013,384,"EPIDM",1278
+"529",562,"Niger",2014,0,"EPIZT",0
+"530",570,"Niue",2012,0,"CYCLN",0
+"531",578,"Norway",2017,0,"CSOLD",0
+"532",580,"Northern Mariana Islands",2014,0,"OTHER",0
+"533",580,"Northern Mariana Islands",2015,0,"CYCLN",0
+"534",583,"Micronesia (Federated States of)",2006,0,"CYCLN",0
+"535",583,"Micronesia (Federated States of)",2008,0,"COSFL",0
+"536",583,"Micronesia (Federated States of)",2009,0,"TSUNM",0
+"537",583,"Micronesia (Federated States of)",2011,2,"EPIDM",6
+"538",583,"Micronesia (Federated States of)",2015,10,"CYCLN",30
+"539",584,"Marshall Islands",2006,0,"FIREX",0
+"540",584,"Marshall Islands",2008,0,"CYCLN",0
+"541",584,"Marshall Islands",2011,0,"EPIDM",0
+"542",584,"Marshall Islands",2013,0,"DROUG",0
+"543",584,"Marshall Islands",2014,0,"COSFL",0
+"544",585,"Palau",2006,0,"CYCLN",0
+"545",585,"Palau",2007,0,"ERQAK",0
+"546",585,"Palau",2009,0,"TSUNM",0
+"547",585,"Palau",2011,0,"TECHH",0
+"548",585,"Palau",2012,0,"CYCLN",0
+"549",586,"Pakistan",2005,38330,"ERQAK",140382
+"550",586,"Pakistan",2006,855687,"FLOOD",2583705
+"551",586,"Pakistan",2007,1541,"HEVRN",14424
+"552",586,"Pakistan",2008,2455,"FLOOD",25254
+"553",586,"Pakistan",2009,2208,"FLOOD",21150
+"554",586,"Pakistan",2010,1177,"FLOOD",16260
+"555",586,"Pakistan",2011,995,"HEVRN",8025
+"556",586,"Pakistan",2012,1656,"FLOOD",10509
+"557",586,"Pakistan",2013,1735,"FLOOD",11841
+"558",586,"Pakistan",2014,729,"HEVRN",4728
+"559",591,"Panama",2005,12,"ACIDT",39
+"560",591,"Panama",2006,7,"FLOOD",33
+"561",591,"Panama",2007,30,"ACIDT",99
+"562",591,"Panama",2008,84,"ACIDT",429
+"563",591,"Panama",2009,76,"ACIDT",282
+"564",591,"Panama",2010,41,"ACIDT",201
+"565",591,"Panama",2011,74,"ACIDT",243
+"566",591,"Panama",2012,32,"ACIDT",150
+"567",591,"Panama",2013,65,"ACIDT",198
+"568",591,"Panama",2014,65,"ACIDT",333
+"569",591,"Panama",2015,12,"ACIDT",39
+"570",591,"Panama",2016,46,"ACIDT",150
+"571",591,"Panama",2017,8,"ACIDT",24
+"572",598,"Papua New Guinea",2005,2,"ERQAK",12
+"573",598,"Papua New Guinea",2006,54,"LNDSL",189
+"574",598,"Papua New Guinea",2007,344,"CYCLN",1539
+"575",598,"Papua New Guinea",2008,20,"LNDSL",72
+"576",598,"Papua New Guinea",2009,336,"EPIDM",1137
+"577",598,"Papua New Guinea",2010,16,"EPIDM",48
+"578",598,"Papua New Guinea",2011,1,"TECHH",3
+"579",598,"Papua New Guinea",2012,60,"LNDSL",195
+"580",598,"Papua New Guinea",2013,10,"FLOOD",30
+"581",598,"Papua New Guinea",2014,10,"EPIDM",30
+"582",598,"Papua New Guinea",2015,24,"OTHER",90
+"583",600,"Paraguay",2005,1,"DROUG",6
+"584",600,"Paraguay",2006,2,"STORM",6
+"585",600,"Paraguay",2007,8,"WLDFR",57
+"586",600,"Paraguay",2008,20,"FLOOD",138
+"587",600,"Paraguay",2009,4,"FIREX",45
+"588",600,"Paraguay",2010,5,"FIREX",63
+"589",600,"Paraguay",2011,20,"EPIDM",75
+"590",600,"Paraguay",2012,10,"FLOOD",78
+"591",600,"Paraguay",2013,2,"FROST",12
+"592",600,"Paraguay",2014,2,"ACIDT",24
+"593",600,"Paraguay",2015,3,"ACIDT",27
+"594",600,"Paraguay",2016,12,"FIREX",54
+"595",600,"Paraguay",2017,0,"FROST",0
+"596",604,"Peru",2005,25,"LNDSL",306
+"597",604,"Peru",2006,90,"ACIDT",699
+"598",604,"Peru",2007,577,"ERQAK",2394
+"599",604,"Peru",2008,99,"ALLUV",681
+"600",604,"Peru",2009,65,"ACIDT",819
+"601",604,"Peru",2010,89,"ALLUV",633
+"602",604,"Peru",2011,19,"LNDSL",162
+"603",604,"Peru",2012,24,"COLDW",171
+"604",604,"Peru",2013,132,"EPIDM",861
+"605",620,"Portugal",2017,0,"CSOLD",0
+"606",624,"Guinea-Bissau",2017,29,"ACIDT",129
+"607",626,"Timor-Leste",2006,0,"WNDST",0
+"608",626,"Timor-Leste",2007,1,"FLOOD",3
+"609",626,"Timor-Leste",2008,0,"WNDST",0
+"610",626,"Timor-Leste",2009,3,"FLOOD",12
+"611",626,"Timor-Leste",2010,8,"FLOOD",30
+"612",626,"Timor-Leste",2011,3,"WNDST",12
+"613",626,"Timor-Leste",2012,5,"FLOOD",30
+"614",626,"Timor-Leste",2013,6,"LNDSL",54
+"615",626,"Timor-Leste",2014,3,"FIREX",9
+"616",626,"Timor-Leste",2015,34,"FLOOD",219
+"617",626,"Timor-Leste",2016,2,"ACIDT",9
+"618",626,"Timor-Leste",2017,2,"FLOOD",6
+"619",646,"Rwanda",2016,23,"ELEST",105
+"620",659,"Saint Kitts and Nevis",2005,0,"FIREX",0
+"621",659,"Saint Kitts and Nevis",2006,2,"FIREX",6
+"622",659,"Saint Kitts and Nevis",2007,4,"ACIDT",12
+"623",659,"Saint Kitts and Nevis",2008,1,"STCOL",3
+"624",659,"Saint Kitts and Nevis",2010,2,"FIREX",6
+"625",659,"Saint Kitts and Nevis",2011,1,"FIREX",3
+"626",659,"Saint Kitts and Nevis",2012,0,"HEVRN",0
+"627",659,"Saint Kitts and Nevis",2013,0,"BIOGL",0
+"628",659,"Saint Kitts and Nevis",2014,2,"ACIDT",6
+"629",662,"Saint Lucia",2006,0,"LNDSL",0
+"630",662,"Saint Lucia",2007,1,"CYCLN",3
+"631",662,"Saint Lucia",2008,0,"COSER",0
+"632",662,"Saint Lucia",2009,3,"FIREX",9
+"633",662,"Saint Lucia",2010,12,"CYCLN",36
+"634",662,"Saint Lucia",2011,19,"ACIDT",60
+"635",662,"Saint Lucia",2012,0,"STORM",0
+"636",662,"Saint Lucia",2013,5,"FLOOD",15
+"637",662,"Saint Lucia",2014,0,"OTHER",0
+"638",670,"Saint Vincent and the Grenadines",2005,2,"LNDSL",6
+"639",670,"Saint Vincent and the Grenadines",2006,0,"OTHER",0
+"640",670,"Saint Vincent and the Grenadines",2007,0,"STORM",0
+"641",670,"Saint Vincent and the Grenadines",2008,1,"LNDSL",3
+"642",670,"Saint Vincent and the Grenadines",2009,0,"LNDSL",0
+"643",670,"Saint Vincent and the Grenadines",2010,0,"CYCLN",0
+"644",670,"Saint Vincent and the Grenadines",2011,0,"LNDSL",0
+"645",670,"Saint Vincent and the Grenadines",2012,0,"BIOGL",0
+"646",670,"Saint Vincent and the Grenadines",2013,12,"FLSFL",36
+"647",670,"Saint Vincent and the Grenadines",2014,0,"DROUG",0
+"648",686,"Senegal",2005,31,"ACIDT",243
+"649",686,"Senegal",2006,40,"ACIDT",225
+"650",686,"Senegal",2007,65,"ACIDT",339
+"651",686,"Senegal",2008,23,"ACIDT",132
+"652",686,"Senegal",2009,35,"ACIDT",219
+"653",686,"Senegal",2010,163,"ACIDT",651
+"654",686,"Senegal",2011,91,"ACIDT",591
+"655",686,"Senegal",2012,169,"ACIDT",897
+"656",686,"Senegal",2013,314,"ACIDT",2049
+"657",686,"Senegal",2014,279,"FOGXX",1800
+"658",686,"Senegal",2015,2,"FLOOD",12
+"659",688,"Serbia",2005,0,"FLOOD",0
+"660",688,"Serbia",2006,0,"FLOOD",0
+"661",688,"Serbia",2007,0,"DROUG",0
+"662",688,"Serbia",2008,0,"HAILS",0
+"663",688,"Serbia",2009,0,"HAILS",0
+"664",688,"Serbia",2010,8,"FLOOD",39
+"665",688,"Serbia",2011,9,"LNDSL",30
+"666",688,"Serbia",2012,19,"SNSTM",93
+"667",688,"Serbia",2013,0,"FLOOD",0
+"668",688,"Serbia",2014,13,"FLOOD",39
+"669",688,"Serbia",2015,0,"WNDST",0
+"670",688,"Serbia",2016,1,"FLOOD",3
+"671",688,"Serbia",2017,0,"FLOOD",0
+"672",690,"Seychelles",2005,0,"HEVRN",0
+"673",690,"Seychelles",2006,0,"HEVRN",0
+"674",690,"Seychelles",2007,0,"COSFL",0
+"675",690,"Seychelles",2008,0,"LNDSL",0
+"676",690,"Seychelles",2009,0,"STORM",0
+"677",690,"Seychelles",2010,0,"FIREX",0
+"678",690,"Seychelles",2011,2,"ANIAK",6
+"679",690,"Seychelles",2012,0,"WNDST",0
+"680",690,"Seychelles",2013,0,"FLOOD",0
+"681",690,"Seychelles",2014,0,"LNDSL",0
+"682",694,"Sierra Leone",2006,3,"FIREX",9
+"683",694,"Sierra Leone",2009,27,"EPIDM",171
+"684",694,"Sierra Leone",2010,22,"ACIDT",177
+"685",694,"Sierra Leone",2011,33,"ACIDT",138
+"686",694,"Sierra Leone",2012,190,"ACIDT",771
+"687",694,"Sierra Leone",2013,137,"ACIDT",561
+"688",694,"Sierra Leone",2014,256,"EPIDM",900
+"689",694,"Sierra Leone",2015,906,"EPIDM",2742
+"690",703,"Slovakia",2017,0,"CSOLD",0
+"691",704,"Viet Nam",2005,493,"FLOOD",2094
+"692",704,"Viet Nam",2006,446,"STORM",1755
+"693",704,"Viet Nam",2007,294,"FLOOD",1245
+"694",704,"Viet Nam",2008,429,"FLOOD",1920
+"695",704,"Viet Nam",2009,306,"FLOOD",924
+"696",704,"Viet Nam",2010,72,"HEVRN",276
+"697",705,"Slovenia",2016,0,"CSOLD",0
+"698",705,"Slovenia",2017,0,"CSOLD",0
+"699",706,"Somalia",2017,0,"CSOLD",0
+"700",710,"South Africa",2017,0,"CSOLD",0
+"701",724,"Spain",2005,0,"STORM",0
+"702",724,"Spain",2006,4,"FLOOD",18
+"703",724,"Spain",2007,7,"STORM",27
+"704",724,"Spain",2008,2,"FLOOD",12
+"705",724,"Spain",2009,4,"STORM",15
+"706",724,"Spain",2010,5,"FLOOD",15
+"707",748,"Eswatini",2015,0,"DROUG",0
+"708",748,"Eswatini",2016,1,"WNDST",3
+"709",748,"Eswatini",2017,0,"CYCLN",0
+"710",752,"Sweden",2017,0,"CSOLD",0
+"711",756,"Switzerland",2017,8,"CSOLD",24
+"712",760,"Syrian Arab Republic",2005,18,"FIREX",72
+"713",760,"Syrian Arab Republic",2006,57,"FIREX",207
+"714",760,"Syrian Arab Republic",2007,137,"FIREX",471
+"715",760,"Syrian Arab Republic",2008,233,"FIREX",744
+"716",760,"Syrian Arab Republic",2009,48,"FIREX",156
+"717",768,"Togo",2005,4,"ELEST",21
+"718",768,"Togo",2006,12,"EPIDM",36
+"719",768,"Togo",2007,183,"FLOOD",654
+"720",768,"Togo",2008,19,"FLOOD",57
+"721",768,"Togo",2009,82,"FIREX",261
+"722",768,"Togo",2010,150,"FIREX",471
+"723",768,"Togo",2011,200,"FIREX",666
+"724",768,"Togo",2012,3,"FLOOD",15
+"725",768,"Togo",2013,1194,"FLOOD",3636
+"726",768,"Togo",2014,130,"FLOOD",483
+"727",772,"Tokelau",2005,0,"CYCLN",0
+"728",772,"Tokelau",2009,0,"EPIDM",0
+"729",772,"Tokelau",2011,0,"DROUG",0
+"730",776,"Tonga",2005,0,"CYCLN",0
+"731",776,"Tonga",2006,0,"TSUNM",0
+"732",776,"Tonga",2008,0,"FLOOD",0
+"733",776,"Tonga",2009,79,"TECHH",291
+"734",776,"Tonga",2010,0,"ERQAK",0
+"735",776,"Tonga",2011,0,"ERQAK",0
+"736",776,"Tonga",2012,0,"CYCLN",0
+"737",776,"Tonga",2014,1,"CYCLN",3
+"738",780,"Trinidad and Tobago",2005,2,"EXPLN",6
+"739",780,"Trinidad and Tobago",2006,0,"FLOOD",0
+"740",780,"Trinidad and Tobago",2007,0,"WNDST",0
+"741",780,"Trinidad and Tobago",2008,1,"FLOOD",3
+"742",780,"Trinidad and Tobago",2009,1,"EPIDM",3
+"743",780,"Trinidad and Tobago",2010,1,"FLOOD",3
+"744",780,"Trinidad and Tobago",2011,0,"ACIDT",0
+"745",780,"Trinidad and Tobago",2012,0,"ELEST",0
+"746",780,"Trinidad and Tobago",2013,0,"ACIDT",0
+"747",780,"Trinidad and Tobago",2014,0,"ACIDT",0
+"748",788,"Tunisia",2005,2,"FIREX",6
+"749",788,"Tunisia",2006,8,"STCOL",24
+"750",788,"Tunisia",2007,13,"FLOOD",66
+"751",788,"Tunisia",2008,1,"FIREX",3
+"752",788,"Tunisia",2009,129,"FLOOD",633
+"753",788,"Tunisia",2010,6,"EPIDM",18
+"754",788,"Tunisia",2011,40,"FIREX",159
+"755",788,"Tunisia",2012,15,"EPIDM",108
+"756",788,"Tunisia",2013,1,"EPIDM",6
+"757",792,"Turkey",2005,48,"ACIDT",249
+"758",792,"Turkey",2006,123,"ACIDT",480
+"759",792,"Turkey",2007,155,"ACIDT",546
+"760",792,"Turkey",2008,61,"ACIDT",288
+"761",792,"Turkey",2009,49,"ACIDT",345
+"762",792,"Turkey",2010,81,"ACIDT",537
+"763",792,"Turkey",2011,687,"ERQAK",2286
+"764",792,"Turkey",2012,83,"ACIDT",303
+"765",792,"Turkey",2013,127,"ACIDT",501
+"766",792,"Turkey",2014,146,"ACIDT",492
+"767",792,"Turkey",2017,0,"CSOLD",0
+"768",798,"Tuvalu",2008,0,"ERQAK",0
+"769",798,"Tuvalu",2011,0,"DROUG",0
+"770",798,"Tuvalu",2015,0,"COSFL",0
+"771",800,"Uganda",2005,53,"EPIDM",219
+"772",800,"Uganda",2006,284,"EPIDM",903
+"773",800,"Uganda",2007,177,"EPIDM",654
+"774",800,"Uganda",2008,145,"EPIDM",489
+"775",800,"Uganda",2009,20,"DROUG",165
+"776",800,"Uganda",2010,1939,"LNDSL",5931
+"777",800,"Uganda",2011,238,"EPIDM",1656
+"778",800,"Uganda",2012,8,"LNDSL",45
+"779",800,"Uganda",2013,15,"ACIDT",102
+"780",800,"Uganda",2014,5,"HEVRN",21
+"781",800,"Uganda",2015,1,"FIREX",3
+"782",800,"Uganda",2016,4,"FLOOD",18
+"783",800,"Uganda",2017,0,"STORM",0
+"784",804,"Ukraine",2005,0,"CSOLD",0
+"785",804,"Ukraine",2006,0,"CSOLD",0
+"786",804,"Ukraine",2007,0,"CSOLD",0
+"787",804,"Ukraine",2008,0,"CSOLD",0
+"788",804,"Ukraine",2009,0,"CSOLD",0
+"789",804,"Ukraine",2010,0,"CSOLD",0
+"790",804,"Ukraine",2011,0,"CSOLD",0
+"791",804,"Ukraine",2012,0,"CSOLD",0
+"792",804,"Ukraine",2013,0,"CSOLD",0
+"793",804,"Ukraine",2014,0,"CSOLD",0
+"794",804,"Ukraine",2015,0,"CSOLD",0
+"795",804,"Ukraine",2016,4,"CSOLD",12
+"796",804,"Ukraine",2017,1,"CSOLD",3
+"797",818,"Egypt",2016,2246,"CSOLD",6738
+"798",818,"Egypt",2017,1362,"CSOLD",4086
+"799",834,"United Republic of Tanzania",2005,0,"EPIDM",0
+"800",834,"United Republic of Tanzania",2006,2,"EPIDM",6
+"801",834,"United Republic of Tanzania",2007,33,"ACIDT",99
+"802",834,"United Republic of Tanzania",2008,7,"ACIDT",21
+"803",834,"United Republic of Tanzania",2009,23,"ACIDT",69
+"804",834,"United Republic of Tanzania",2010,186,"ACIDT",561
+"805",834,"United Republic of Tanzania",2011,1542,"ACIDT",4626
+"806",834,"United Republic of Tanzania",2012,430,"ACIDT",1290
+"807",834,"United Republic of Tanzania",2013,10,"ACIDT",30
+"808",834,"United Republic of Tanzania",2014,26,"ACIDT",78
+"809",854,"Burkina Faso",2005,773,"EPIDM",2319
+"810",854,"Burkina Faso",2006,1677,"EPIDM",5034
+"811",854,"Burkina Faso",2007,1884,"EPIDM",5892
+"812",854,"Burkina Faso",2008,1241,"FLOOD",7242
+"813",854,"Burkina Faso",2009,678,"EPIDM",2328
+"814",854,"Burkina Faso",2010,989,"EPIDM",3228
+"815",854,"Burkina Faso",2011,588,"EPIDM",2145
+"816",854,"Burkina Faso",2012,753,"EPIDM",2403
+"817",854,"Burkina Faso",2013,332,"EPIDM",1512
+"818",854,"Burkina Faso",2014,358,"EPIDM",1329
+"819",854,"Burkina Faso",2015,287,"EPIDM",861
+"820",854,"Burkina Faso",2016,2,"EPIDM",6
+"821",858,"Uruguay",2005,53,"STORM",219
+"822",858,"Uruguay",2006,12,"STORM",45
+"823",858,"Uruguay",2007,14,"FIREX",69
+"824",858,"Uruguay",2008,14,"FIREX",99
+"825",858,"Uruguay",2009,45,"EPIDM",192
+"826",858,"Uruguay",2010,5,"ACIDT",69
+"827",858,"Uruguay",2011,32,"FIREX",162
+"828",858,"Uruguay",2012,24,"STORM",135
+"829",858,"Uruguay",2013,18,"FIREX",90
+"830",858,"Uruguay",2014,2,"STORM",9
+"831",860,"Uzbekistan",2017,0,"CSOLD",0
+"832",862,"Venezuela (Bolivarian Republic of)",2005,165,"ACIDT",1179
+"833",862,"Venezuela (Bolivarian Republic of)",2006,46,"CONTM",405
+"834",862,"Venezuela (Bolivarian Republic of)",2007,19,"ACIDT",222
+"835",862,"Venezuela (Bolivarian Republic of)",2008,11,"FIREX",99
+"836",862,"Venezuela (Bolivarian Republic of)",2009,11,"CONTM",93
+"837",862,"Venezuela (Bolivarian Republic of)",2010,19,"ACIDT",132
+"838",862,"Venezuela (Bolivarian Republic of)",2011,9,"FLOOD",66
+"839",862,"Venezuela (Bolivarian Republic of)",2012,51,"ACIDT",333
+"840",862,"Venezuela (Bolivarian Republic of)",2013,15,"ACIDT",66
+"841",862,"Venezuela (Bolivarian Republic of)",2014,29,"ACIDT",183
+"842",862,"Venezuela (Bolivarian Republic of)",2015,9,"FIREX",54
+"843",876,"Wallis and Futuna Islands",2009,0,"ERQAK",0
+"844",882,"Samoa",2005,18,"CYCLN",54
+"845",882,"Samoa",2006,0,"TSUNM",0
+"846",882,"Samoa",2008,0,"FIREX",0
+"847",882,"Samoa",2009,241,"TSUNM",1161
+"848",882,"Samoa",2011,0,"ERQAK",0
+"849",882,"Samoa",2012,0,"CYCLN",0
+"850",882,"Samoa",2013,0,"CYCLN",0
+"851",882,"Samoa",2014,1,"FLOOD",3
+"852",882,"Samoa",2015,0,"CYCLN",0
+"853",887,"Yemen",2005,80,"ELEST",498
+"854",887,"Yemen",2006,40,"ELEST",213
+"855",887,"Yemen",2007,260,"EPIDM",1272
+"856",887,"Yemen",2008,167,"EPIDM",873
+"857",887,"Yemen",2009,597,"EPIDM",1851
+"858",887,"Yemen",2010,91,"LIQFN",468
+"859",8,"Albania",2005,2,"ACIDT",21
+"860",8,"Albania",2006,1,"AVALE",6
+"861",8,"Albania",2007,1,"LNDSL",6
+"862",8,"Albania",2008,16,"OTHER",48
+"863",8,"Albania",2009,2,"FLSFL",15
+"864",8,"Albania",2010,9,"ACIDT",39
+"865",8,"Albania",2011,12,"ACIDT",63
+"866",8,"Albania",2012,3,"SNSTM",24
+"867",8,"Albania",2013,5,"CONTM",27
+"868",8,"Albania",2014,4,"ACIDT",27
+"869",8,"Albania",2015,3,"FIREX",36
+"870",8,"Albania",2016,3,"ACIDT",21
+"871",16,"American Samoa",2009,180,"TSUNM",540
+"872",16,"American Samoa",2014,0,"CYCLN",0
+"873",16,"American Samoa",2015,4,"EPIDM",12
+"874",24,"Angola",2005,237,"FLSFL",1392
+"875",24,"Angola",2007,262,"HEVRN",1440
+"876",24,"Angola",2008,80,"FLSFL",384
+"877",24,"Angola",2009,14,"FLSFL",63
+"878",24,"Angola",2010,134,"EPIDM",639
+"879",24,"Angola",2011,55,"EPIDM",336
+"880",24,"Angola",2012,95,"FLSFL",663
+"881",24,"Angola",2013,125,"FLSFL",630
+"882",24,"Angola",2014,137,"HEVRN",579
+"883",24,"Angola",2015,143,"FLOOD",888
+"884",24,"Angola",2016,133,"ELEST",1620
+"885",24,"Angola",2017,21,"EPIDM",186
+"886",28,"Antigua and Barbuda",2005,0,"BIOGL",0
+"887",28,"Antigua and Barbuda",2008,0,"CYCLN",0
+"888",28,"Antigua and Barbuda",2009,1,"ACIDT",6
+"889",28,"Antigua and Barbuda",2010,3,"ACIDT",24
+"890",28,"Antigua and Barbuda",2011,1,"ACIDT",3
+"891",28,"Antigua and Barbuda",2012,1,"ACIDT",3
+"892",28,"Antigua and Barbuda",2013,4,"FIREX",12
+"893",28,"Antigua and Barbuda",2014,3,"FIREX",9
+"894",31,"Azerbaijan",2017,0,"CSOLD",0
+"895",32,"Argentina",2005,72,"FIREX",573
+"896",32,"Argentina",2006,37,"FIREX",375
+"897",32,"Argentina",2007,96,"FIREX",1131
+"898",32,"Argentina",2008,56,"FIREX",720
+"899",32,"Argentina",2009,276,"EPIDM",1239
+"900",40,"Austria",2017,0,"CSOLD",0
+"901",51,"Armenia",2017,302,"CSOLD",906
+"902",52,"Barbados",2005,4,"FIREX",12
+"903",52,"Barbados",2006,1,"EXPLN",6
+"904",52,"Barbados",2007,5,"LNDSL",18
+"905",52,"Barbados",2008,4,"FIREX",15
+"906",52,"Barbados",2009,1,"FIREX",3
+"907",52,"Barbados",2010,7,"FIREX",21
+"908",52,"Barbados",2011,0,"LNDSL",0
+"909",52,"Barbados",2012,0,"FIREX",0
+"910",52,"Barbados",2013,0,"EXPLN",0
+"911",64,"Bhutan",2009,14,"ERQAK",78
+"912",64,"Bhutan",2010,2,"FIREX",6
+"913",64,"Bhutan",2011,9,"FIREX",36
+"914",64,"Bhutan",2012,0,"FIREX",0
+"915",64,"Bhutan",2013,0,"FLOOD",0
+"916",64,"Bhutan",2014,1,"WNDST",3
+"917",64,"Bhutan",2015,0,"FIREX",0
+"918",64,"Bhutan",2016,5,"FIREX",15
+"919",64,"Bhutan",2017,11,"CSOLD",33
+"920",68,"Bolivia (Plurinational State of)",2005,44,"FLOOD",186
+"921",68,"Bolivia (Plurinational State of)",2006,18,"FLOOD",117
+"922",68,"Bolivia (Plurinational State of)",2007,19,"CONTM",243
+"923",68,"Bolivia (Plurinational State of)",2008,51,"FLOOD",378
+"924",68,"Bolivia (Plurinational State of)",2009,11,"FLSFL",93
+"925",68,"Bolivia (Plurinational State of)",2010,19,"FLSFL",132
+"926",68,"Bolivia (Plurinational State of)",2011,56,"EPIDM",402
+"927",68,"Bolivia (Plurinational State of)",2012,57,"EPIDM",282
+"928",68,"Bolivia (Plurinational State of)",2013,10,"ACIDT",33
+"929",72,"Botswana",2013,0,"HAILS",0
+"930",72,"Botswana",2014,0,"ANIAK",0
+"931",72,"Botswana",2015,0,"HAILS",0
+"932",72,"Botswana",2016,0,"HAILS",0
+"933",72,"Botswana",2017,1,"HAILS",3
+"934",84,"Belize",2005,3,"ACIDT",9
+"935",84,"Belize",2007,0,"CHESP",0
+"936",84,"Belize",2008,7,"FLOOD",21
+"937",84,"Belize",2009,0,"ERQAK",0
+"938",84,"Belize",2010,4,"ACIDT",12
+"939",84,"Belize",2011,1,"ACIDT",3
+"940",90,"Solomon Islands",2006,0,"CYCLN",0
+"941",90,"Solomon Islands",2007,92,"TSUNM",432
+"942",90,"Solomon Islands",2008,0,"ERQAK",0
+"943",90,"Solomon Islands",2009,53,"FLOOD",159
+"944",90,"Solomon Islands",2010,6,"FLOOD",18
+"945",90,"Solomon Islands",2011,2,"TSUNM",6
+"946",90,"Solomon Islands",2012,1,"CYCLN",3
+"947",90,"Solomon Islands",2013,14,"TSUNM",72
+"948",90,"Solomon Islands",2014,22,"FLOOD",66
+"949",100,"Bulgaria",2017,0,"CSOLD",0
+"950",104,"Myanmar",2005,17,"FIREX",51
+"951",104,"Myanmar",2006,1,"FIREX",3
+"952",104,"Myanmar",2007,18,"FIREX",54
+"953",104,"Myanmar",2008,139715,"CYCLN",419220
+"954",104,"Myanmar",2009,47,"FIREX",153
+"955",104,"Myanmar",2010,142,"FIREX",471
+"956",104,"Myanmar",2011,269,"EPIDM",1140
+"957",104,"Myanmar",2012,21,"ELEST",138
+"958",104,"Myanmar",2013,117,"FIREX",711
+"959",104,"Myanmar",2014,114,"ELEST",606
+"960",104,"Myanmar",2015,97,"ELEST",1200
+"961",104,"Myanmar",2016,338,"OTHER",2217
+"962",104,"Myanmar",2017,329,"OTHER",2241
+"963",116,"Cambodia",2005,29,"DROUG",87
+"964",116,"Cambodia",2006,29,"DROUG",87
+"965",116,"Cambodia",2007,33,"DROUG",99
+"966",116,"Cambodia",2008,49,"DROUG",147
+"967",116,"Cambodia",2009,177,"DROUG",531
+"968",116,"Cambodia",2010,91,"DROUG",273
+"969",116,"Cambodia",2011,458,"DROUG",1374
+"970",116,"Cambodia",2012,192,"DROUG",576
+"971",116,"Cambodia",2013,375,"DROUG",1125
+"972",116,"Cambodia",2014,130,"DROUG",390
+"973",116,"Cambodia",2015,101,"DROUG",303
+"974",116,"Cambodia",2016,52,"DROUG",156
+"975",116,"Cambodia",2017,98,"DROUG",294
+"976",132,"Cabo Verde",2006,0,"ACIDT",0
+"977",132,"Cabo Verde",2008,0,"ACIDT",0
+"978",132,"Cabo Verde",2009,3,"LNDSL",9
+"979",132,"Cabo Verde",2014,0,"VOLER",0
+"980",132,"Cabo Verde",2015,15,"ACIDT",45
+"981",132,"Cabo Verde",2017,1,"STCOL",3
+"982",144,"Sri Lanka",2005,82,"ANIAK",372
+"983",144,"Sri Lanka",2006,77,"ANIAK",516
+"984",144,"Sri Lanka",2007,37,"LNDSL",420
+"985",144,"Sri Lanka",2008,47,"FLOOD",351
+"986",144,"Sri Lanka",2009,17,"ELEST",186
+"987",144,"Sri Lanka",2010,25,"FLOOD",204
+"988",144,"Sri Lanka",2011,41,"FLOOD",390
+"989",144,"Sri Lanka",2012,68,"ELEST",453
+"990",144,"Sri Lanka",2013,97,"WNDST",423
+"991",144,"Sri Lanka",2014,61,"LNDSL",465
+"992",144,"Sri Lanka",2015,48,"ACIDT",369
+"993",144,"Sri Lanka",2016,184,"LNDSL",789
+"994",144,"Sri Lanka",2017,207,"FLOOD",1527
+"995",152,"Chile",2005,63,"ACIDT",399
+"996",152,"Chile",2006,36,"FIREX",255
+"997",152,"Chile",2007,79,"FIREX",429
+"998",152,"Chile",2008,50,"FIREX",252
+"999",152,"Chile",2009,30,"EPIDM",231
+"1000",152,"Chile",2010,1019,"ERQAK",3228
+"1001",152,"Chile",2011,35,"FIREX",135
+"1002",152,"Chile",2012,31,"ACIDT",144
+"1003",152,"Chile",2013,3,"FLOOD",24
+"1004",152,"Chile",2014,15,"WLDFR",78
+"1005",152,"Chile",2017,49,"CSOLD",147
+"1006",170,"Colombia",2005,117,"LNDSL",1092
+"1007",170,"Colombia",2006,147,"LNDSL",789
+"1008",170,"Colombia",2007,126,"LNDSL",891
+"1009",170,"Colombia",2008,157,"LNDSL",1059
+"1010",170,"Colombia",2009,91,"FLOOD",1185
+"1011",170,"Colombia",2010,275,"LNDSL",1575
+"1012",170,"Colombia",2011,293,"LNDSL",1827
+"1013",170,"Colombia",2012,94,"LNDSL",855
+"1014",170,"Colombia",2013,74,"LNDSL",783
+"1015",170,"Colombia",2014,102,"LNDSL",1137
+"1016",170,"Colombia",2015,114,"FLSFL",840
+"1017",170,"Colombia",2016,25,"FLSFL",75
+"1018",170,"Colombia",2017,439,"FLSFL",1317
+"1019",174,"Comoros",2005,0,"VOLER",0
+"1020",174,"Comoros",2006,0,"VOLER",0
+"1021",174,"Comoros",2007,1,"PLGUE",3
+"1022",174,"Comoros",2008,0,"ACIDT",0
+"1023",174,"Comoros",2009,152,"ACIDT",456
+"1024",174,"Comoros",2011,121,"ACIDT",471
+"1025",174,"Comoros",2012,2,"FLOOD",6
+"1026",174,"Comoros",2013,4,"FIREX",12
+"1027",174,"Comoros",2014,2,"ELEST",15
+"1028",184,"Cook Islands",2005,0,"CYCLN",0
+"1029",184,"Cook Islands",2007,0,"CYCLN",0
+"1030",184,"Cook Islands",2009,0,"ERQAK",0
+"1031",184,"Cook Islands",2010,3,"CYCLN",9
+"1032",188,"Costa Rica",2005,5,"FLOOD",30
+"1033",188,"Costa Rica",2006,4,"EXPLN",21
+"1034",188,"Costa Rica",2007,15,"FLOOD",96
+"1035",188,"Costa Rica",2008,5,"LNDSL",36
+"1036",188,"Costa Rica",2009,23,"ERQAK",105
+"1037",188,"Costa Rica",2010,33,"LNDSL",129
+"1038",188,"Costa Rica",2011,4,"ELEST",33
+"1039",188,"Costa Rica",2012,7,"FLSFL",51
+"1040",188,"Costa Rica",2013,5,"EXPLN",36
+"1041",188,"Costa Rica",2014,6,"ELEST",36
+"1042",188,"Costa Rica",2015,5,"COSFL",24
+"1043",188,"Costa Rica",2016,11,"FLSFL",57
+"1044",188,"Costa Rica",2017,1,"WNDST",3
+"1045",191,"Croatia",2016,0,"CSOLD",0
+"1046",191,"Croatia",2017,25,"CSOLD",75
+"1047",196,"Cyprus",2005,1,"CSOLD",3
+"1048",196,"Cyprus",2006,1,"CSOLD",3
+"1049",196,"Cyprus",2007,0,"CSOLD",0
+"1050",196,"Cyprus",2008,1,"CSOLD",3
+"1051",196,"Cyprus",2009,1,"CSOLD",3
+"1052",196,"Cyprus",2010,0,"CSOLD",0
+"1053",196,"Cyprus",2011,13,"CSOLD",39
+"1054",196,"Cyprus",2012,0,"CSOLD",0
+"1055",196,"Cyprus",2013,1,"CSOLD",3
+"1056",196,"Cyprus",2014,0,"CSOLD",0
+"1057",196,"Cyprus",2015,0,"CSOLD",0
+"1058",196,"Cyprus",2016,2,"CSOLD",6
+"1059",196,"Cyprus",2017,0,"CSOLD",0
+"1060",208,"Denmark",2017,0,"CSOLD",0
+"1061",212,"Dominica",2007,2,"CYCLN",6
+"1062",212,"Dominica",2009,0,"FIREX",0
+"1063",212,"Dominica",2010,3,"LNDSL",18
+"1064",212,"Dominica",2011,2,"BIOGL",15
+"1065",212,"Dominica",2012,2,"ACIDT",9
+"1066",212,"Dominica",2013,2,"LNDSL",6
+"1067",212,"Dominica",2014,0,"FIREX",0
+"1068",218,"Ecuador",2005,24,"FIREX",204
+"1069",218,"Ecuador",2006,31,"VOLER",246
+"1070",218,"Ecuador",2007,8,"LNDSL",108
+"1071",218,"Ecuador",2008,37,"ACIDT",543
+"1072",218,"Ecuador",2009,19,"OTHER",207
+"1073",218,"Ecuador",2010,58,"ACIDT",429
+"1074",218,"Ecuador",2011,140,"OTHER",1278
+"1075",218,"Ecuador",2012,517,"ACIDT",2022
+"1076",218,"Ecuador",2013,450,"ACIDT",1908
+"1077",218,"Ecuador",2014,395,"ACIDT",1713
+"1078",218,"Ecuador",2015,368,"ACIDT",1656
+"1079",218,"Ecuador",2016,489,"ERQAK",3024
+"1080",218,"Ecuador",2017,166,"ACIDT",810
+"1081",222,"El Salvador",2005,157,"FLOOD",798
+"1082",222,"El Salvador",2006,44,"EPIDM",204
+"1083",222,"El Salvador",2007,9,"FLOOD",69
+"1084",222,"El Salvador",2008,52,"FLOOD",222
+"1085",222,"El Salvador",2009,22,"LNDSL",231
+"1086",222,"El Salvador",2010,11,"FLOOD",168
+"1087",222,"El Salvador",2011,19,"FLSFL",195
+"1088",222,"El Salvador",2012,7,"OTHER",84
+"1089",222,"El Salvador",2013,5,"FLSFL",30
+"1090",222,"El Salvador",2014,6,"OTHER",63
+"1091",222,"El Salvador",2015,3,"COSFL",15
+"1092",226,"Equatorial Guinea",2010,0,"FLOOD",0
+"1093",226,"Equatorial Guinea",2012,1,"FIREX",3
+"1094",226,"Equatorial Guinea",2013,0,"FIREX",0
+"1095",226,"Equatorial Guinea",2014,0,"FIREX",0
+"1096",226,"Equatorial Guinea",2015,4,"EPIDM",12
+"1097",226,"Equatorial Guinea",2016,11,"FIREX",33
+"1098",226,"Equatorial Guinea",2017,15,"ACIDT",51
+"1099",231,"Ethiopia",2005,456,"FLOOD",1425
+"1100",231,"Ethiopia",2006,1605,"FLOOD",5121
+"1101",231,"Ethiopia",2007,82,"FIREX",513
+"1102",231,"Ethiopia",2008,128,"FIREX",435
+"1103",231,"Ethiopia",2009,4,"FIREX",18
+"1104",231,"Ethiopia",2010,49,"LNDSL",186
+"1105",231,"Ethiopia",2011,0,"FIREX",0
+"1106",231,"Ethiopia",2012,0,"FLOOD",0
+"1107",231,"Ethiopia",2013,0,"LNDSL",0
+"1108",242,"Fiji",2005,3,"FLOOD",9
+"1109",242,"Fiji",2006,4,"CYCLN",24
+"1110",242,"Fiji",2007,73,"CYCLN",249
+"1111",242,"Fiji",2008,14,"CYCLN",42
+"1112",242,"Fiji",2009,22,"FLOOD",84
+"1113",242,"Fiji",2010,4,"CYCLN",12
+"1114",242,"Fiji",2011,1,"FLOOD",3
+"1115",242,"Fiji",2012,19,"FLOOD",84
+"1116",242,"Fiji",2013,0,"CYCLN",0
+"1117",242,"Fiji",2014,0,"FLOOD",0
+"1118",258,"French Polynesia",2007,20,"ACIDT",60
+"1119",262,"Djibouti",2005,40,"ACIDT",150
+"1120",262,"Djibouti",2006,120,"ACIDT",408
+"1121",262,"Djibouti",2007,21,"EPIDM",84
+"1122",262,"Djibouti",2008,8,"EPIDM",75
+"1123",262,"Djibouti",2009,26,"EPIDM",171
+"1124",262,"Djibouti",2010,64,"ACIDT",207
+"1125",262,"Djibouti",2011,119,"DROUG",615
+"1126",262,"Djibouti",2012,28,"ACIDT",84
+"1127",270,"Gambia",2017,2,"FIREX",12
+"1128",275,"State of Palestine",2005,0,"STCOL",0
+"1129",275,"State of Palestine",2006,1,"FLOOD",3
+"1130",275,"State of Palestine",2007,0,"FIREX",0
+"1131",275,"State of Palestine",2008,2,"COLDW",6
+"1132",275,"State of Palestine",2009,1,"FLOOD",3
+"1133",275,"State of Palestine",2010,1,"EXPLN",3
+"1134",275,"State of Palestine",2011,0,"LNDSL",0
+"1135",275,"State of Palestine",2012,0,"FIREX",0
+"1136",275,"State of Palestine",2013,3,"FLOOD",12
+"1137",276,"Germany",2017,0,"CSOLD",0
+"1138",296,"Kiribati",2008,0,"COSFL",0
+"1139",296,"Kiribati",2014,0,"COSFL",0
+"1140",308,"Grenada",2005,2,"CYCLN",6
+"1141",308,"Grenada",2007,1,"FIREX",3
+"1142",308,"Grenada",2008,0,"COSER",0
+"1143",308,"Grenada",2009,0,"BIOGL",0
+"1144",308,"Grenada",2010,0,"DROUG",0
+"1145",308,"Grenada",2011,0,"FLOOD",0
+"1146",308,"Grenada",2012,0,"STORM",0
+"1147",308,"Grenada",2014,0,"EPIDM",0
+"1148",316,"Guam",2015,0,"CYCLN",0
+"1149",320,"Guatemala",2005,1207,"HEVRN",3864
+"1150",320,"Guatemala",2006,30,"FIREX",222
+"1151",320,"Guatemala",2007,29,"LNDSL",138
+"1152",320,"Guatemala",2008,89,"LNDSL",390
+"1153",320,"Guatemala",2009,77,"LNDSL",276
+"1154",320,"Guatemala",2010,189,"HEVRN",909
+"1155",320,"Guatemala",2011,53,"LNDSL",348
+"1156",320,"Guatemala",2012,45,"ERQAK",258
+"1157",320,"Guatemala",2013,23,"LNDSL",213
+"1158",320,"Guatemala",2017,15,"CSOLD",45
+"1159",324,"Guinea",2014,1760,"PLGUE",5280
+"1160",324,"Guinea",2015,56,"PLGUE",168
+"1161",328,"Guyana",2005,23,"EPIDM",102
+"1162",328,"Guyana",2006,11,"FIREX",36
+"1163",328,"Guyana",2007,2,"FIREX",15
+"1164",328,"Guyana",2008,8,"FIREX",24
+"1165",328,"Guyana",2009,8,"FIREX",24
+"1166",328,"Guyana",2010,3,"FIREX",9
+"1167",328,"Guyana",2011,11,"FIREX",36
+"1168",328,"Guyana",2012,3,"FIREX",12
+"1169",328,"Guyana",2013,3,"CONTM",9
+"1170",340,"Honduras",2005,55,"LNDSL",354
+"1171",340,"Honduras",2006,27,"FLOOD",81
+"1172",340,"Honduras",2007,12,"FLOOD",36
+"1173",340,"Honduras",2008,273,"EPIDM",1572
+"1174",340,"Honduras",2009,8,"ERQAK",57
+"1175",340,"Honduras",2010,67,"EPIDM",423
+"1176",340,"Honduras",2011,596,"FLOOD",1914
+"1177",340,"Honduras",2012,500,"EPIDM",2982
+"1178",340,"Honduras",2013,52,"FLOOD",291
+"1179",364,"Iran (Islamic Republic of)",2005,252,"FLOOD",1938
+"1180",364,"Iran (Islamic Republic of)",2006,186,"ACIDT",933
+"1181",364,"Iran (Islamic Republic of)",2007,116,"FLOOD",1068
+"1182",364,"Iran (Islamic Republic of)",2008,167,"FLOOD",1245
+"1183",364,"Iran (Islamic Republic of)",2009,44,"FLOOD",234
+"1184",364,"Iran (Islamic Republic of)",2010,29,"ACIDT",279
+"1185",364,"Iran (Islamic Republic of)",2011,6,"FLOOD",18
+"1186",372,"Ireland",2017,3,"CSOLD",9
+"1187",388,"Jamaica",2005,9,"CYCLN",27
+"1188",388,"Jamaica",2006,44,"FIREX",135
+"1189",388,"Jamaica",2007,6,"CYCLN",18
+"1190",388,"Jamaica",2008,16,"STORM",48
+"1191",388,"Jamaica",2009,52,"FIREX",156
+"1192",388,"Jamaica",2010,17,"STORM",51
+"1193",388,"Jamaica",2011,21,"FIREX",63
+"1194",388,"Jamaica",2012,1,"CYCLN",3
+"1195",388,"Jamaica",2014,0,"FLOOD",0
+"1196",398,"Kazakhstan",2005,2,"ACIDT",18
+"1197",398,"Kazakhstan",2006,14,"ACIDT",66
+"1198",398,"Kazakhstan",2007,10,"ACIDT",51
+"1199",398,"Kazakhstan",2008,4,"FIREX",33
+"1200",398,"Kazakhstan",2009,7,"ACIDT",27
+"1201",398,"Kazakhstan",2010,4,"ACIDT",27
+"1202",398,"Kazakhstan",2011,10,"FIREX",42
+"1203",398,"Kazakhstan",2012,6,"FIREX",27
+"1204",398,"Kazakhstan",2013,4,"FIREX",18
+"1205",398,"Kazakhstan",2014,2,"DROUG",6
+"1206",398,"Kazakhstan",2015,3,"FIREX",12
+"1207",398,"Kazakhstan",2016,7,"FIREX",24
+"1208",398,"Kazakhstan",2017,29,"CSOLD",87
+"1209",400,"Jordan",2005,0,"ERQAK",0
+"1210",400,"Jordan",2006,0,"HEVRN",0
+"1211",400,"Jordan",2007,4,"FLOOD",18
+"1212",400,"Jordan",2008,13,"EPIDM",39
+"1213",400,"Jordan",2009,0,"FLSFL",0
+"1214",400,"Jordan",2010,25,"SNSTM",117
+"1215",400,"Jordan",2011,2,"STCOL",9
+"1216",400,"Jordan",2012,0,"SNSTM",0
+"1217",400,"Jordan",2016,99,"CSOLD",297
+"1218",400,"Jordan",2017,33,"CSOLD",99
+"1219",404,"Kenya",2005,11,"FLOOD",33
+"1220",404,"Kenya",2006,17,"FLOOD",51
+"1221",404,"Kenya",2007,11,"LNDSL",33
+"1222",404,"Kenya",2008,28,"FLOOD",186
+"1223",404,"Kenya",2009,201,"EPIDM",846
+"1224",404,"Kenya",2010,92,"FLOOD",462
+"1225",404,"Kenya",2011,25,"ELEST",117
+"1226",404,"Kenya",2012,23,"FLOOD",75
+"1227",404,"Kenya",2013,158,"FLOOD",543
+"1228",404,"Kenya",2014,121,"ACIDT",672
+"1229",404,"Kenya",2015,411,"ACIDT",2169
+"1230",404,"Kenya",2016,489,"ACIDT",2019
+"1231",404,"Kenya",2017,21,"ACIDT",63
+"1232",410,"Republic of Korea",2016,0,"CSOLD",0
+"1233",410,"Republic of Korea",2017,55,"CSOLD",165
+"1234",414,"Kuwait",2017,0,"CSOLD",0
+"1235",417,"Kyrgyzstan",2005,0,"ACIDT",0
+"1236",417,"Kyrgyzstan",2006,1,"AVALE",3
+"1237",417,"Kyrgyzstan",2007,0,"LNDSL",0
+"1238",417,"Kyrgyzstan",2008,7,"FIREX",39
+"1239",417,"Kyrgyzstan",2009,0,"AVALE",0
+"1240",417,"Kyrgyzstan",2010,0,"FLOOD",0
+"1241",417,"Kyrgyzstan",2011,2,"FIREX",6
+"1242",417,"Kyrgyzstan",2012,0,"LNDSL",0
+"1243",417,"Kyrgyzstan",2013,0,"PLGUE",0
+"1244",417,"Kyrgyzstan",2014,0,"PLGUE",0
+"1245",417,"Kyrgyzstan",2015,1,"AVALE",3
+"1246",417,"Kyrgyzstan",2016,1,"CYCLN",6
+"1247",418,"Lao People's Democratic Republic",2005,6,"EPIDM",57
+"1248",418,"Lao People's Democratic Republic",2006,10,"ACIDT",48
+"1249",418,"Lao People's Democratic Republic",2007,10,"ACIDT",84
+"1250",418,"Lao People's Democratic Republic",2008,30,"FLOOD",135
+"1251",418,"Lao People's Democratic Republic",2009,28,"FLOOD",177
+"1252",418,"Lao People's Democratic Republic",2010,20,"STORM",156
+"1253",418,"Lao People's Democratic Republic",2011,16,"FLOOD",90
+"1254",418,"Lao People's Democratic Republic",2012,50,"FLOOD",150
+"1255",422,"Lebanon",2005,1,"WLDFR",3
+"1256",422,"Lebanon",2006,3,"SNSTM",15
+"1257",422,"Lebanon",2007,0,"EROSN",0
+"1258",422,"Lebanon",2008,3,"SNSTM",12
+"1259",422,"Lebanon",2009,0,"EROSN",0
+"1260",422,"Lebanon",2010,0,"SNSTM",0
+"1261",422,"Lebanon",2011,0,"FLOOD",0
+"1262",422,"Lebanon",2012,1,"STORM",3
+"1263",422,"Lebanon",2013,1,"SNSTM",3
+"1264",422,"Lebanon",2014,0,"FLOOD",0
+"1265",430,"Liberia",2014,3441,"EPIDM",10323
+"1266",430,"Liberia",2015,41,"EPIDM",123
+"1267",430,"Liberia",2016,0,"ANIAK",0
+"1268",450,"Madagascar",2005,295,"CYCLN",945
+"1269",450,"Madagascar",2006,19,"CYCLN",57
+"1270",450,"Madagascar",2007,181,"CYCLN",543
+"1271",450,"Madagascar",2008,282,"CYCLN",939
+"1272",450,"Madagascar",2009,40,"FIREX",231
+"1273",450,"Madagascar",2010,131,"CYCLN",534
+"1274",450,"Madagascar",2011,90,"EPIDM",372
+"1275",450,"Madagascar",2012,117,"CYCLN",516
+"1276",450,"Madagascar",2013,61,"EPIDM",345
+"1277",450,"Madagascar",2014,89,"EPIDM",384
+"1278",450,"Madagascar",2015,103,"DROUG",672
+"1279",454,"Malawi",2017,0,"CSOLD",0
+"1280",458,"Malaysia",2016,0,"CSOLD",0
+"1281",458,"Malaysia",2017,31,"CSOLD",93
+"1282",462,"Maldives",2005,1,"FIREX",3
+"1283",462,"Maldives",2006,22,"ACIDT",69
+"1284",462,"Maldives",2007,1,"FIREX",3
+"1285",462,"Maldives",2008,3,"ACIDT",12
+"1286",462,"Maldives",2017,0,"CSOLD",0
+"1287",466,"Mali",2005,16,"EPIDM",69
+"1288",466,"Mali",2006,4,"EPIDM",24
+"1289",466,"Mali",2007,65,"EPIDM",231
+"1290",466,"Mali",2008,37,"EPIDM",129
+"1291",466,"Mali",2009,31,"FLOOD",93
+"1292",466,"Mali",2010,131,"FLOOD",396
+"1293",466,"Mali",2011,24,"EPIDM",99
+"1294",466,"Mali",2012,21,"FLOOD",63
+"1295",466,"Mali",2013,61,"FLOOD",183
+"1296",466,"Mali",2014,17,"FLOOD",51
+"1297",480,"Mauritius",2005,7,"ACIDT",24
+"1298",480,"Mauritius",2006,4,"FIREX",21
+"1299",480,"Mauritius",2007,132,"ACIDT",477
+"1300",480,"Mauritius",2008,10,"ACIDT",72
+"1301",480,"Mauritius",2009,139,"ACIDT",459
+"1302",480,"Mauritius",2010,137,"ACIDT",426
+"1303",480,"Mauritius",2011,5,"FIREX",24
+"1304",480,"Mauritius",2012,134,"ACIDT",429
+"1305",480,"Mauritius",2013,22,"FLSFL",78
+"1306",480,"Mauritius",2014,10,"ACIDT",30
+"1307",484,"Mexico",2005,150,"FLOOD",3459
+"1308",484,"Mexico",2006,228,"FROST",3258
+"1309",484,"Mexico",2007,202,"ACIDT",3537
+"1310",484,"Mexico",2008,4001,"CONTM",14262
+"1311",484,"Mexico",2009,877,"EPIDM",3831
+"1312",484,"Mexico",2010,291,"LNDSL",3747
+"1313",484,"Mexico",2011,113,"FIREX",1890
+"1314",484,"Mexico",2012,81,"FIREX",1032
+"1315",484,"Mexico",2013,200,"CONTM",3132
+"1316",484,"Mexico",2017,814,"CSOLD",2442
+"1317",496,"Mongolia",2006,78,"ACIDT",315
+"1318",496,"Mongolia",2007,6,"STORM",24
+"1319",496,"Mongolia",2008,111,"ACIDT",570
+"1320",496,"Mongolia",2009,0,"ACIDT",0
+"1321",496,"Mongolia",2010,130,"ACIDT",444
+"1322",496,"Mongolia",2012,128,"ACIDT",465
+"1323",496,"Mongolia",2013,2,"FIREX",6
+"1324",496,"Mongolia",2014,87,"ACIDT",288
+"1325",496,"Mongolia",2015,54,"ACIDT",189
+"1326",496,"Mongolia",2016,1,"ACIDT",6
+"1327",504,"Morocco",2005,0,"FIREX",0
+"1328",504,"Morocco",2006,0,"WLDFR",0
+"1329",504,"Morocco",2007,0,"FLOOD",0
+"1330",504,"Morocco",2008,58,"FIREX",177
+"1331",504,"Morocco",2009,102,"FLOOD",306
+"1332",504,"Morocco",2010,46,"FLOOD",138
+"1333",504,"Morocco",2011,8,"FLOOD",24
+"1334",504,"Morocco",2012,3,"FLOOD",9
+"1335",504,"Morocco",2013,3,"FIREX",15
+"1336",504,"Morocco",2014,1,"FLOOD",3
+"1337",508,"Mozambique",2005,1041,"EPIDM",3741
+"1338",508,"Mozambique",2006,712,"EPIDM",2733
+"1339",508,"Mozambique",2007,734,"EPIDM",3273
+"1340",508,"Mozambique",2008,885,"EPIDM",3609
+"1341",508,"Mozambique",2009,468,"EPIDM",1884
+"1342",508,"Mozambique",2010,5,"EPIDM",57
+"1343",508,"Mozambique",2011,6,"FLSFL",57
+"1344",508,"Mozambique",2012,18,"FLSFL",84
+"1345",508,"Mozambique",2017,31,"CSOLD",93
+"1346",524,"Nepal",2005,132,"ACIDT",1299
+"1347",524,"Nepal",2006,267,"EPIDM",2100
+"1348",524,"Nepal",2007,226,"EPIDM",2187
+"1349",524,"Nepal",2008,282,"ACIDT",3183
+"1350",524,"Nepal",2009,446,"EPIDM",4200
+"1351",524,"Nepal",2010,447,"ACIDT",3432
+"1352",524,"Nepal",2011,444,"ACIDT",3486
+"1353",524,"Nepal",2012,338,"ACIDT",2760
+"1354",524,"Nepal",2013,168,"ACIDT",2211
+"1355",540,"New Caledonia",2008,0,"ERQAK",0
+"1356",540,"New Caledonia",2009,4,"EPIDM",12
+"1357",540,"New Caledonia",2011,3,"EPIDM",9
+"1358",548,"Vanuatu",2005,0,"VOLER",0
+"1359",548,"Vanuatu",2006,2,"VOLER",6
+"1360",548,"Vanuatu",2007,0,"TSUNM",0
+"1361",548,"Vanuatu",2008,0,"ERQAK",0
+"1362",548,"Vanuatu",2009,0,"ERQAK",0
+"1363",548,"Vanuatu",2010,0,"ERQAK",0
+"1364",548,"Vanuatu",2011,1,"CYCLN",3
+"1365",548,"Vanuatu",2012,0,"CYCLN",0
+"1366",548,"Vanuatu",2014,12,"CYCLN",39
+"1367",548,"Vanuatu",2015,11,"CYCLN",33
+"1368",554,"New Zealand",2017,1,"CSOLD",3
+"1369",558,"Nicaragua",2005,6,"COSFL",27
+"1370",558,"Nicaragua",2006,44,"CONTM",138
+"1371",558,"Nicaragua",2007,1341,"FLOOD",4053
+"1372",558,"Nicaragua",2008,13,"FLOOD",81
+"1373",558,"Nicaragua",2009,3,"FLOOD",18
+"1374",558,"Nicaragua",2010,13,"FLOOD",72
+"1375",558,"Nicaragua",2011,11,"FLOOD",45
+"1376",558,"Nicaragua",2012,5,"FLSFL",54
+"1377",558,"Nicaragua",2013,21,"EPIDM",117
+"1378",562,"Niger",2005,218,"EPIDM",654
+"1379",562,"Niger",2006,502,"EPIDM",1518
+"1380",562,"Niger",2007,256,"EPIDM",777
+"1381",562,"Niger",2008,576,"EPIDM",1734
+"1382",562,"Niger",2009,888,"EPIDM",2664
+"1383",562,"Niger",2010,882,"EPIDM",2658
+"1384",562,"Niger",2011,668,"EPIDM",2103
+"1385",562,"Niger",2012,438,"EPIDM",1650
+"1386",562,"Niger",2013,384,"EPIDM",1278
+"1387",562,"Niger",2014,0,"EPIZT",0
+"1388",570,"Niue",2012,0,"CYCLN",0
+"1389",578,"Norway",2017,0,"CSOLD",0
+"1390",580,"Northern Mariana Islands",2014,0,"OTHER",0
+"1391",580,"Northern Mariana Islands",2015,0,"CYCLN",0
+"1392",583,"Micronesia (Federated States of)",2006,0,"CYCLN",0
+"1393",583,"Micronesia (Federated States of)",2008,0,"COSFL",0
+"1394",583,"Micronesia (Federated States of)",2009,0,"TSUNM",0
+"1395",583,"Micronesia (Federated States of)",2011,2,"EPIDM",6
+"1396",583,"Micronesia (Federated States of)",2015,10,"CYCLN",30
+"1397",584,"Marshall Islands",2006,0,"FIREX",0
+"1398",584,"Marshall Islands",2008,0,"CYCLN",0
+"1399",584,"Marshall Islands",2011,0,"EPIDM",0
+"1400",584,"Marshall Islands",2013,0,"DROUG",0
+"1401",584,"Marshall Islands",2014,0,"COSFL",0
+"1402",585,"Palau",2006,0,"CYCLN",0
+"1403",585,"Palau",2007,0,"ERQAK",0
+"1404",585,"Palau",2009,0,"TSUNM",0
+"1405",585,"Palau",2011,0,"TECHH",0
+"1406",585,"Palau",2012,0,"CYCLN",0
+"1407",586,"Pakistan",2005,38330,"ERQAK",140382
+"1408",586,"Pakistan",2006,855687,"FLOOD",2583705
+"1409",586,"Pakistan",2007,1541,"HEVRN",14424
+"1410",586,"Pakistan",2008,2455,"FLOOD",25254
+"1411",586,"Pakistan",2009,2208,"FLOOD",21150
+"1412",586,"Pakistan",2010,1177,"FLOOD",16260
+"1413",586,"Pakistan",2011,995,"HEVRN",8025
+"1414",586,"Pakistan",2012,1656,"FLOOD",10509
+"1415",586,"Pakistan",2013,1735,"FLOOD",11841
+"1416",586,"Pakistan",2014,729,"HEVRN",4728
+"1417",591,"Panama",2005,12,"ACIDT",39
+"1418",591,"Panama",2006,7,"FLOOD",33
+"1419",591,"Panama",2007,30,"ACIDT",99
+"1420",591,"Panama",2008,84,"ACIDT",429
+"1421",591,"Panama",2009,76,"ACIDT",282
+"1422",591,"Panama",2010,41,"ACIDT",201
+"1423",591,"Panama",2011,74,"ACIDT",243
+"1424",591,"Panama",2012,32,"ACIDT",150
+"1425",591,"Panama",2013,65,"ACIDT",198
+"1426",591,"Panama",2014,65,"ACIDT",333
+"1427",591,"Panama",2015,12,"ACIDT",39
+"1428",591,"Panama",2016,46,"ACIDT",150
+"1429",591,"Panama",2017,8,"ACIDT",24
+"1430",598,"Papua New Guinea",2005,2,"ERQAK",12
+"1431",598,"Papua New Guinea",2006,54,"LNDSL",189
+"1432",598,"Papua New Guinea",2007,344,"CYCLN",1539
+"1433",598,"Papua New Guinea",2008,20,"LNDSL",72
+"1434",598,"Papua New Guinea",2009,336,"EPIDM",1137
+"1435",598,"Papua New Guinea",2010,16,"EPIDM",48
+"1436",598,"Papua New Guinea",2011,1,"TECHH",3
+"1437",598,"Papua New Guinea",2012,60,"LNDSL",195
+"1438",598,"Papua New Guinea",2013,10,"FLOOD",30
+"1439",598,"Papua New Guinea",2014,10,"EPIDM",30
+"1440",598,"Papua New Guinea",2015,24,"OTHER",90
+"1441",600,"Paraguay",2005,1,"DROUG",6
+"1442",600,"Paraguay",2006,2,"STORM",6
+"1443",600,"Paraguay",2007,8,"WLDFR",57
+"1444",600,"Paraguay",2008,20,"FLOOD",138
+"1445",600,"Paraguay",2009,4,"FIREX",45
+"1446",600,"Paraguay",2010,5,"FIREX",63
+"1447",600,"Paraguay",2011,20,"EPIDM",75
+"1448",600,"Paraguay",2012,10,"FLOOD",78
+"1449",600,"Paraguay",2013,2,"FROST",12
+"1450",600,"Paraguay",2014,2,"ACIDT",24
+"1451",600,"Paraguay",2015,3,"ACIDT",27
+"1452",600,"Paraguay",2016,12,"FIREX",54
+"1453",600,"Paraguay",2017,0,"FROST",0
+"1454",604,"Peru",2005,25,"LNDSL",306
+"1455",604,"Peru",2006,90,"ACIDT",699
+"1456",604,"Peru",2007,577,"ERQAK",2394
+"1457",604,"Peru",2008,99,"ALLUV",681
+"1458",604,"Peru",2009,65,"ACIDT",819
+"1459",604,"Peru",2010,89,"ALLUV",633
+"1460",604,"Peru",2011,19,"LNDSL",162
+"1461",604,"Peru",2012,24,"COLDW",171
+"1462",604,"Peru",2013,132,"EPIDM",861
+"1463",620,"Portugal",2017,0,"CSOLD",0
+"1464",624,"Guinea-Bissau",2017,29,"ACIDT",129
+"1465",626,"Timor-Leste",2006,0,"WNDST",0
+"1466",626,"Timor-Leste",2007,1,"FLOOD",3
+"1467",626,"Timor-Leste",2008,0,"WNDST",0
+"1468",626,"Timor-Leste",2009,3,"FLOOD",12
+"1469",626,"Timor-Leste",2010,8,"FLOOD",30
+"1470",626,"Timor-Leste",2011,3,"WNDST",12
+"1471",626,"Timor-Leste",2012,5,"FLOOD",30
+"1472",626,"Timor-Leste",2013,6,"LNDSL",54
+"1473",626,"Timor-Leste",2014,3,"FIREX",9
+"1474",626,"Timor-Leste",2015,34,"FLOOD",219
+"1475",626,"Timor-Leste",2016,2,"ACIDT",9
+"1476",626,"Timor-Leste",2017,2,"FLOOD",6
+"1477",646,"Rwanda",2016,23,"ELEST",105
+"1478",659,"Saint Kitts and Nevis",2005,0,"FIREX",0
+"1479",659,"Saint Kitts and Nevis",2006,2,"FIREX",6
+"1480",659,"Saint Kitts and Nevis",2007,4,"ACIDT",12
+"1481",659,"Saint Kitts and Nevis",2008,1,"STCOL",3
+"1482",659,"Saint Kitts and Nevis",2010,2,"FIREX",6
+"1483",659,"Saint Kitts and Nevis",2011,1,"FIREX",3
+"1484",659,"Saint Kitts and Nevis",2012,0,"HEVRN",0
+"1485",659,"Saint Kitts and Nevis",2013,0,"BIOGL",0
+"1486",659,"Saint Kitts and Nevis",2014,2,"ACIDT",6
+"1487",662,"Saint Lucia",2006,0,"LNDSL",0
+"1488",662,"Saint Lucia",2007,1,"CYCLN",3
+"1489",662,"Saint Lucia",2008,0,"COSER",0
+"1490",662,"Saint Lucia",2009,3,"FIREX",9
+"1491",662,"Saint Lucia",2010,12,"CYCLN",36
+"1492",662,"Saint Lucia",2011,19,"ACIDT",60
+"1493",662,"Saint Lucia",2012,0,"STORM",0
+"1494",662,"Saint Lucia",2013,5,"FLOOD",15
+"1495",662,"Saint Lucia",2014,0,"OTHER",0
+"1496",670,"Saint Vincent and the Grenadines",2005,2,"LNDSL",6
+"1497",670,"Saint Vincent and the Grenadines",2006,0,"OTHER",0
+"1498",670,"Saint Vincent and the Grenadines",2007,0,"STORM",0
+"1499",670,"Saint Vincent and the Grenadines",2008,1,"LNDSL",3
+"1500",670,"Saint Vincent and the Grenadines",2009,0,"LNDSL",0
+"1501",670,"Saint Vincent and the Grenadines",2010,0,"CYCLN",0
+"1502",670,"Saint Vincent and the Grenadines",2011,0,"LNDSL",0
+"1503",670,"Saint Vincent and the Grenadines",2012,0,"BIOGL",0
+"1504",670,"Saint Vincent and the Grenadines",2013,12,"FLSFL",36
+"1505",670,"Saint Vincent and the Grenadines",2014,0,"DROUG",0
+"1506",686,"Senegal",2005,31,"ACIDT",243
+"1507",686,"Senegal",2006,40,"ACIDT",225
+"1508",686,"Senegal",2007,65,"ACIDT",339
+"1509",686,"Senegal",2008,23,"ACIDT",132
+"1510",686,"Senegal",2009,35,"ACIDT",219
+"1511",686,"Senegal",2010,163,"ACIDT",651
+"1512",686,"Senegal",2011,91,"ACIDT",591
+"1513",686,"Senegal",2012,169,"ACIDT",897
+"1514",686,"Senegal",2013,314,"ACIDT",2049
+"1515",686,"Senegal",2014,279,"FOGXX",1800
+"1516",686,"Senegal",2015,2,"FLOOD",12
+"1517",688,"Serbia",2005,0,"FLOOD",0
+"1518",688,"Serbia",2006,0,"FLOOD",0
+"1519",688,"Serbia",2007,0,"DROUG",0
+"1520",688,"Serbia",2008,0,"HAILS",0
+"1521",688,"Serbia",2009,0,"HAILS",0
+"1522",688,"Serbia",2010,8,"FLOOD",39
+"1523",688,"Serbia",2011,9,"LNDSL",30
+"1524",688,"Serbia",2012,19,"SNSTM",93
+"1525",688,"Serbia",2013,0,"FLOOD",0
+"1526",688,"Serbia",2014,13,"FLOOD",39
+"1527",688,"Serbia",2015,0,"WNDST",0
+"1528",688,"Serbia",2016,1,"FLOOD",3
+"1529",688,"Serbia",2017,0,"FLOOD",0
+"1530",690,"Seychelles",2005,0,"HEVRN",0
+"1531",690,"Seychelles",2006,0,"HEVRN",0
+"1532",690,"Seychelles",2007,0,"COSFL",0
+"1533",690,"Seychelles",2008,0,"LNDSL",0
+"1534",690,"Seychelles",2009,0,"STORM",0
+"1535",690,"Seychelles",2010,0,"FIREX",0
+"1536",690,"Seychelles",2011,2,"ANIAK",6
+"1537",690,"Seychelles",2012,0,"WNDST",0
+"1538",690,"Seychelles",2013,0,"FLOOD",0
+"1539",690,"Seychelles",2014,0,"LNDSL",0
+"1540",694,"Sierra Leone",2006,3,"FIREX",9
+"1541",694,"Sierra Leone",2009,27,"EPIDM",171
+"1542",694,"Sierra Leone",2010,22,"ACIDT",177
+"1543",694,"Sierra Leone",2011,33,"ACIDT",138
+"1544",694,"Sierra Leone",2012,190,"ACIDT",771
+"1545",694,"Sierra Leone",2013,137,"ACIDT",561
+"1546",694,"Sierra Leone",2014,256,"EPIDM",900
+"1547",694,"Sierra Leone",2015,906,"EPIDM",2742
+"1548",703,"Slovakia",2017,0,"CSOLD",0
+"1549",704,"Viet Nam",2005,493,"FLOOD",2094
+"1550",704,"Viet Nam",2006,446,"STORM",1755
+"1551",704,"Viet Nam",2007,294,"FLOOD",1245
+"1552",704,"Viet Nam",2008,429,"FLOOD",1920
+"1553",704,"Viet Nam",2009,306,"FLOOD",924
+"1554",704,"Viet Nam",2010,72,"HEVRN",276
+"1555",705,"Slovenia",2016,0,"CSOLD",0
+"1556",705,"Slovenia",2017,0,"CSOLD",0
+"1557",706,"Somalia",2017,0,"CSOLD",0
+"1558",710,"South Africa",2017,0,"CSOLD",0
+"1559",724,"Spain",2005,0,"STORM",0
+"1560",724,"Spain",2006,4,"FLOOD",18
+"1561",724,"Spain",2007,7,"STORM",27
+"1562",724,"Spain",2008,2,"FLOOD",12
+"1563",724,"Spain",2009,4,"STORM",15
+"1564",724,"Spain",2010,5,"FLOOD",15
+"1565",748,"Eswatini",2015,0,"DROUG",0
+"1566",748,"Eswatini",2016,1,"WNDST",3
+"1567",748,"Eswatini",2017,0,"CYCLN",0
+"1568",752,"Sweden",2017,0,"CSOLD",0
+"1569",756,"Switzerland",2017,8,"CSOLD",24
+"1570",760,"Syrian Arab Republic",2005,18,"FIREX",72
+"1571",760,"Syrian Arab Republic",2006,57,"FIREX",207
+"1572",760,"Syrian Arab Republic",2007,137,"FIREX",471
+"1573",760,"Syrian Arab Republic",2008,233,"FIREX",744
+"1574",760,"Syrian Arab Republic",2009,48,"FIREX",156
+"1575",768,"Togo",2005,4,"ELEST",21
+"1576",768,"Togo",2006,12,"EPIDM",36
+"1577",768,"Togo",2007,183,"FLOOD",654
+"1578",768,"Togo",2008,19,"FLOOD",57
+"1579",768,"Togo",2009,82,"FIREX",261
+"1580",768,"Togo",2010,150,"FIREX",471
+"1581",768,"Togo",2011,200,"FIREX",666
+"1582",768,"Togo",2012,3,"FLOOD",15
+"1583",768,"Togo",2013,1194,"FLOOD",3636
+"1584",768,"Togo",2014,130,"FLOOD",483
+"1585",772,"Tokelau",2005,0,"CYCLN",0
+"1586",772,"Tokelau",2009,0,"EPIDM",0
+"1587",772,"Tokelau",2011,0,"DROUG",0
+"1588",776,"Tonga",2005,0,"CYCLN",0
+"1589",776,"Tonga",2006,0,"TSUNM",0
+"1590",776,"Tonga",2008,0,"FLOOD",0
+"1591",776,"Tonga",2009,79,"TECHH",291
+"1592",776,"Tonga",2010,0,"ERQAK",0
+"1593",776,"Tonga",2011,0,"ERQAK",0
+"1594",776,"Tonga",2012,0,"CYCLN",0
+"1595",776,"Tonga",2014,1,"CYCLN",3
+"1596",780,"Trinidad and Tobago",2005,2,"EXPLN",6
+"1597",780,"Trinidad and Tobago",2006,0,"FLOOD",0
+"1598",780,"Trinidad and Tobago",2007,0,"WNDST",0
+"1599",780,"Trinidad and Tobago",2008,1,"FLOOD",3
+"1600",780,"Trinidad and Tobago",2009,1,"EPIDM",3
+"1601",780,"Trinidad and Tobago",2010,1,"FLOOD",3
+"1602",780,"Trinidad and Tobago",2011,0,"ACIDT",0
+"1603",780,"Trinidad and Tobago",2012,0,"ELEST",0
+"1604",780,"Trinidad and Tobago",2013,0,"ACIDT",0
+"1605",780,"Trinidad and Tobago",2014,0,"ACIDT",0
+"1606",788,"Tunisia",2005,2,"FIREX",6
+"1607",788,"Tunisia",2006,8,"STCOL",24
+"1608",788,"Tunisia",2007,13,"FLOOD",66
+"1609",788,"Tunisia",2008,1,"FIREX",3
+"1610",788,"Tunisia",2009,129,"FLOOD",633
+"1611",788,"Tunisia",2010,6,"EPIDM",18
+"1612",788,"Tunisia",2011,40,"FIREX",159
+"1613",788,"Tunisia",2012,15,"EPIDM",108
+"1614",788,"Tunisia",2013,1,"EPIDM",6
+"1615",792,"Turkey",2005,48,"ACIDT",249
+"1616",792,"Turkey",2006,123,"ACIDT",480
+"1617",792,"Turkey",2007,155,"ACIDT",546
+"1618",792,"Turkey",2008,61,"ACIDT",288
+"1619",792,"Turkey",2009,49,"ACIDT",345
+"1620",792,"Turkey",2010,81,"ACIDT",537
+"1621",792,"Turkey",2011,687,"ERQAK",2286
+"1622",792,"Turkey",2012,83,"ACIDT",303
+"1623",792,"Turkey",2013,127,"ACIDT",501
+"1624",792,"Turkey",2014,146,"ACIDT",492
+"1625",792,"Turkey",2017,0,"CSOLD",0
+"1626",798,"Tuvalu",2008,0,"ERQAK",0
+"1627",798,"Tuvalu",2011,0,"DROUG",0
+"1628",798,"Tuvalu",2015,0,"COSFL",0
+"1629",800,"Uganda",2005,53,"EPIDM",219
+"1630",800,"Uganda",2006,284,"EPIDM",903
+"1631",800,"Uganda",2007,177,"EPIDM",654
+"1632",800,"Uganda",2008,145,"EPIDM",489
+"1633",800,"Uganda",2009,20,"DROUG",165
+"1634",800,"Uganda",2010,1939,"LNDSL",5931
+"1635",800,"Uganda",2011,238,"EPIDM",1656
+"1636",800,"Uganda",2012,8,"LNDSL",45
+"1637",800,"Uganda",2013,15,"ACIDT",102
+"1638",800,"Uganda",2014,5,"HEVRN",21
+"1639",800,"Uganda",2015,1,"FIREX",3
+"1640",800,"Uganda",2016,4,"FLOOD",18
+"1641",800,"Uganda",2017,0,"STORM",0
+"1642",804,"Ukraine",2005,0,"CSOLD",0
+"1643",804,"Ukraine",2006,0,"CSOLD",0
+"1644",804,"Ukraine",2007,0,"CSOLD",0
+"1645",804,"Ukraine",2008,0,"CSOLD",0
+"1646",804,"Ukraine",2009,0,"CSOLD",0
+"1647",804,"Ukraine",2010,0,"CSOLD",0
+"1648",804,"Ukraine",2011,0,"CSOLD",0
+"1649",804,"Ukraine",2012,0,"CSOLD",0
+"1650",804,"Ukraine",2013,0,"CSOLD",0
+"1651",804,"Ukraine",2014,0,"CSOLD",0
+"1652",804,"Ukraine",2015,0,"CSOLD",0
+"1653",804,"Ukraine",2016,4,"CSOLD",12
+"1654",804,"Ukraine",2017,1,"CSOLD",3
+"1655",818,"Egypt",2016,2246,"CSOLD",6738
+"1656",818,"Egypt",2017,1362,"CSOLD",4086
+"1657",834,"United Republic of Tanzania",2005,0,"EPIDM",0
+"1658",834,"United Republic of Tanzania",2006,2,"EPIDM",6
+"1659",834,"United Republic of Tanzania",2007,33,"ACIDT",99
+"1660",834,"United Republic of Tanzania",2008,7,"ACIDT",21
+"1661",834,"United Republic of Tanzania",2009,23,"ACIDT",69
+"1662",834,"United Republic of Tanzania",2010,186,"ACIDT",561
+"1663",834,"United Republic of Tanzania",2011,1542,"ACIDT",4626
+"1664",834,"United Republic of Tanzania",2012,430,"ACIDT",1290
+"1665",834,"United Republic of Tanzania",2013,10,"ACIDT",30
+"1666",834,"United Republic of Tanzania",2014,26,"ACIDT",78
+"1667",854,"Burkina Faso",2005,773,"EPIDM",2319
+"1668",854,"Burkina Faso",2006,1677,"EPIDM",5034
+"1669",854,"Burkina Faso",2007,1884,"EPIDM",5892
+"1670",854,"Burkina Faso",2008,1241,"FLOOD",7242
+"1671",854,"Burkina Faso",2009,678,"EPIDM",2328
+"1672",854,"Burkina Faso",2010,989,"EPIDM",3228
+"1673",854,"Burkina Faso",2011,588,"EPIDM",2145
+"1674",854,"Burkina Faso",2012,753,"EPIDM",2403
+"1675",854,"Burkina Faso",2013,332,"EPIDM",1512
+"1676",854,"Burkina Faso",2014,358,"EPIDM",1329
+"1677",854,"Burkina Faso",2015,287,"EPIDM",861
+"1678",854,"Burkina Faso",2016,2,"EPIDM",6
+"1679",858,"Uruguay",2005,53,"STORM",219
+"1680",858,"Uruguay",2006,12,"STORM",45
+"1681",858,"Uruguay",2007,14,"FIREX",69
+"1682",858,"Uruguay",2008,14,"FIREX",99
+"1683",858,"Uruguay",2009,45,"EPIDM",192
+"1684",858,"Uruguay",2010,5,"ACIDT",69
+"1685",858,"Uruguay",2011,32,"FIREX",162
+"1686",858,"Uruguay",2012,24,"STORM",135
+"1687",858,"Uruguay",2013,18,"FIREX",90
+"1688",858,"Uruguay",2014,2,"STORM",9
+"1689",860,"Uzbekistan",2017,0,"CSOLD",0
+"1690",862,"Venezuela (Bolivarian Republic of)",2005,165,"ACIDT",1179
+"1691",862,"Venezuela (Bolivarian Republic of)",2006,46,"CONTM",405
+"1692",862,"Venezuela (Bolivarian Republic of)",2007,19,"ACIDT",222
+"1693",862,"Venezuela (Bolivarian Republic of)",2008,11,"FIREX",99
+"1694",862,"Venezuela (Bolivarian Republic of)",2009,11,"CONTM",93
+"1695",862,"Venezuela (Bolivarian Republic of)",2010,19,"ACIDT",132
+"1696",862,"Venezuela (Bolivarian Republic of)",2011,9,"FLOOD",66
+"1697",862,"Venezuela (Bolivarian Republic of)",2012,51,"ACIDT",333
+"1698",862,"Venezuela (Bolivarian Republic of)",2013,15,"ACIDT",66
+"1699",862,"Venezuela (Bolivarian Republic of)",2014,29,"ACIDT",183
+"1700",862,"Venezuela (Bolivarian Republic of)",2015,9,"FIREX",54
+"1701",876,"Wallis and Futuna Islands",2009,0,"ERQAK",0
+"1702",882,"Samoa",2005,18,"CYCLN",54
+"1703",882,"Samoa",2006,0,"TSUNM",0
+"1704",882,"Samoa",2008,0,"FIREX",0
+"1705",882,"Samoa",2009,241,"TSUNM",1161
+"1706",882,"Samoa",2011,0,"ERQAK",0
+"1707",882,"Samoa",2012,0,"CYCLN",0
+"1708",882,"Samoa",2013,0,"CYCLN",0
+"1709",882,"Samoa",2014,1,"FLOOD",3
+"1710",882,"Samoa",2015,0,"CYCLN",0
+"1711",887,"Yemen",2005,80,"ELEST",498
+"1712",887,"Yemen",2006,40,"ELEST",213
+"1713",887,"Yemen",2007,260,"EPIDM",1272
+"1714",887,"Yemen",2008,167,"EPIDM",873
+"1715",887,"Yemen",2009,597,"EPIDM",1851
+"1716",887,"Yemen",2010,91,"LIQFN",468
+"1717",8,"Albania",2005,2,"ACIDT",21
+"1718",8,"Albania",2006,1,"AVALE",6
+"1719",8,"Albania",2007,1,"LNDSL",6
+"1720",8,"Albania",2008,16,"OTHER",48
+"1721",8,"Albania",2009,2,"FLSFL",15
+"1722",8,"Albania",2010,9,"ACIDT",39
+"1723",8,"Albania",2011,12,"ACIDT",63
+"1724",8,"Albania",2012,3,"SNSTM",24
+"1725",8,"Albania",2013,5,"CONTM",27
+"1726",8,"Albania",2014,4,"ACIDT",27
+"1727",8,"Albania",2015,3,"FIREX",36
+"1728",8,"Albania",2016,3,"ACIDT",21
+"1729",16,"American Samoa",2009,180,"TSUNM",540
+"1730",16,"American Samoa",2014,0,"CYCLN",0
+"1731",16,"American Samoa",2015,4,"EPIDM",12
+"1732",24,"Angola",2005,237,"FLSFL",1392
+"1733",24,"Angola",2007,262,"HEVRN",1440
+"1734",24,"Angola",2008,80,"FLSFL",384
+"1735",24,"Angola",2009,14,"FLSFL",63
+"1736",24,"Angola",2010,134,"EPIDM",639
+"1737",24,"Angola",2011,55,"EPIDM",336
+"1738",24,"Angola",2012,95,"FLSFL",663
+"1739",24,"Angola",2013,125,"FLSFL",630
+"1740",24,"Angola",2014,137,"HEVRN",579
+"1741",24,"Angola",2015,143,"FLOOD",888
+"1742",24,"Angola",2016,133,"ELEST",1620
+"1743",24,"Angola",2017,21,"EPIDM",186
+"1744",28,"Antigua and Barbuda",2005,0,"BIOGL",0
+"1745",28,"Antigua and Barbuda",2008,0,"CYCLN",0
+"1746",28,"Antigua and Barbuda",2009,1,"ACIDT",6
+"1747",28,"Antigua and Barbuda",2010,3,"ACIDT",24
+"1748",28,"Antigua and Barbuda",2011,1,"ACIDT",3
+"1749",28,"Antigua and Barbuda",2012,1,"ACIDT",3
+"1750",28,"Antigua and Barbuda",2013,4,"FIREX",12
+"1751",28,"Antigua and Barbuda",2014,3,"FIREX",9
+"1752",31,"Azerbaijan",2017,0,"CSOLD",0
+"1753",32,"Argentina",2005,72,"FIREX",573
+"1754",32,"Argentina",2006,37,"FIREX",375
+"1755",32,"Argentina",2007,96,"FIREX",1131
+"1756",32,"Argentina",2008,56,"FIREX",720
+"1757",32,"Argentina",2009,276,"EPIDM",1239
+"1758",40,"Austria",2017,0,"CSOLD",0
+"1759",51,"Armenia",2017,302,"CSOLD",906
+"1760",52,"Barbados",2005,4,"FIREX",12
+"1761",52,"Barbados",2006,1,"EXPLN",6
+"1762",52,"Barbados",2007,5,"LNDSL",18
+"1763",52,"Barbados",2008,4,"FIREX",15
+"1764",52,"Barbados",2009,1,"FIREX",3
+"1765",52,"Barbados",2010,7,"FIREX",21
+"1766",52,"Barbados",2011,0,"LNDSL",0
+"1767",52,"Barbados",2012,0,"FIREX",0
+"1768",52,"Barbados",2013,0,"EXPLN",0
+"1769",64,"Bhutan",2009,14,"ERQAK",78
+"1770",64,"Bhutan",2010,2,"FIREX",6
+"1771",64,"Bhutan",2011,9,"FIREX",36
+"1772",64,"Bhutan",2012,0,"FIREX",0
+"1773",64,"Bhutan",2013,0,"FLOOD",0
+"1774",64,"Bhutan",2014,1,"WNDST",3
+"1775",64,"Bhutan",2015,0,"FIREX",0
+"1776",64,"Bhutan",2016,5,"FIREX",15
+"1777",64,"Bhutan",2017,11,"CSOLD",33
+"1778",68,"Bolivia (Plurinational State of)",2005,44,"FLOOD",186
+"1779",68,"Bolivia (Plurinational State of)",2006,18,"FLOOD",117
+"1780",68,"Bolivia (Plurinational State of)",2007,19,"CONTM",243
+"1781",68,"Bolivia (Plurinational State of)",2008,51,"FLOOD",378
+"1782",68,"Bolivia (Plurinational State of)",2009,11,"FLSFL",93
+"1783",68,"Bolivia (Plurinational State of)",2010,19,"FLSFL",132
+"1784",68,"Bolivia (Plurinational State of)",2011,56,"EPIDM",402
+"1785",68,"Bolivia (Plurinational State of)",2012,57,"EPIDM",282
+"1786",68,"Bolivia (Plurinational State of)",2013,10,"ACIDT",33
+"1787",72,"Botswana",2013,0,"HAILS",0
+"1788",72,"Botswana",2014,0,"ANIAK",0
+"1789",72,"Botswana",2015,0,"HAILS",0
+"1790",72,"Botswana",2016,0,"HAILS",0
+"1791",72,"Botswana",2017,1,"HAILS",3
+"1792",84,"Belize",2005,3,"ACIDT",9
+"1793",84,"Belize",2007,0,"CHESP",0
+"1794",84,"Belize",2008,7,"FLOOD",21
+"1795",84,"Belize",2009,0,"ERQAK",0
+"1796",84,"Belize",2010,4,"ACIDT",12
+"1797",84,"Belize",2011,1,"ACIDT",3
+"1798",90,"Solomon Islands",2006,0,"CYCLN",0
+"1799",90,"Solomon Islands",2007,92,"TSUNM",432
+"1800",90,"Solomon Islands",2008,0,"ERQAK",0
+"1801",90,"Solomon Islands",2009,53,"FLOOD",159
+"1802",90,"Solomon Islands",2010,6,"FLOOD",18
+"1803",90,"Solomon Islands",2011,2,"TSUNM",6
+"1804",90,"Solomon Islands",2012,1,"CYCLN",3
+"1805",90,"Solomon Islands",2013,14,"TSUNM",72
+"1806",90,"Solomon Islands",2014,22,"FLOOD",66
+"1807",100,"Bulgaria",2017,0,"CSOLD",0
+"1808",104,"Myanmar",2005,17,"FIREX",51
+"1809",104,"Myanmar",2006,1,"FIREX",3
+"1810",104,"Myanmar",2007,18,"FIREX",54
+"1811",104,"Myanmar",2008,139715,"CYCLN",419220
+"1812",104,"Myanmar",2009,47,"FIREX",153
+"1813",104,"Myanmar",2010,142,"FIREX",471
+"1814",104,"Myanmar",2011,269,"EPIDM",1140
+"1815",104,"Myanmar",2012,21,"ELEST",138
+"1816",104,"Myanmar",2013,117,"FIREX",711
+"1817",104,"Myanmar",2014,114,"ELEST",606
+"1818",104,"Myanmar",2015,97,"ELEST",1200
+"1819",104,"Myanmar",2016,338,"OTHER",2217
+"1820",104,"Myanmar",2017,329,"OTHER",2241
+"1821",116,"Cambodia",2005,29,"DROUG",87
+"1822",116,"Cambodia",2006,29,"DROUG",87
+"1823",116,"Cambodia",2007,33,"DROUG",99
+"1824",116,"Cambodia",2008,49,"DROUG",147
+"1825",116,"Cambodia",2009,177,"DROUG",531
+"1826",116,"Cambodia",2010,91,"DROUG",273
+"1827",116,"Cambodia",2011,458,"DROUG",1374
+"1828",116,"Cambodia",2012,192,"DROUG",576
+"1829",116,"Cambodia",2013,375,"DROUG",1125
+"1830",116,"Cambodia",2014,130,"DROUG",390
+"1831",116,"Cambodia",2015,101,"DROUG",303
+"1832",116,"Cambodia",2016,52,"DROUG",156
+"1833",116,"Cambodia",2017,98,"DROUG",294
+"1834",132,"Cabo Verde",2006,0,"ACIDT",0
+"1835",132,"Cabo Verde",2008,0,"ACIDT",0
+"1836",132,"Cabo Verde",2009,3,"LNDSL",9
+"1837",132,"Cabo Verde",2014,0,"VOLER",0
+"1838",132,"Cabo Verde",2015,15,"ACIDT",45
+"1839",132,"Cabo Verde",2017,1,"STCOL",3
+"1840",144,"Sri Lanka",2005,82,"ANIAK",372
+"1841",144,"Sri Lanka",2006,77,"ANIAK",516
+"1842",144,"Sri Lanka",2007,37,"LNDSL",420
+"1843",144,"Sri Lanka",2008,47,"FLOOD",351
+"1844",144,"Sri Lanka",2009,17,"ELEST",186
+"1845",144,"Sri Lanka",2010,25,"FLOOD",204
+"1846",144,"Sri Lanka",2011,41,"FLOOD",390
+"1847",144,"Sri Lanka",2012,68,"ELEST",453
+"1848",144,"Sri Lanka",2013,97,"WNDST",423
+"1849",144,"Sri Lanka",2014,61,"LNDSL",465
+"1850",144,"Sri Lanka",2015,48,"ACIDT",369
+"1851",144,"Sri Lanka",2016,184,"LNDSL",789
+"1852",144,"Sri Lanka",2017,207,"FLOOD",1527
+"1853",152,"Chile",2005,63,"ACIDT",399
+"1854",152,"Chile",2006,36,"FIREX",255
+"1855",152,"Chile",2007,79,"FIREX",429
+"1856",152,"Chile",2008,50,"FIREX",252
+"1857",152,"Chile",2009,30,"EPIDM",231
+"1858",152,"Chile",2010,1019,"ERQAK",3228
+"1859",152,"Chile",2011,35,"FIREX",135
+"1860",152,"Chile",2012,31,"ACIDT",144
+"1861",152,"Chile",2013,3,"FLOOD",24
+"1862",152,"Chile",2014,15,"WLDFR",78
+"1863",152,"Chile",2017,49,"CSOLD",147
+"1864",170,"Colombia",2005,117,"LNDSL",1092
+"1865",170,"Colombia",2006,147,"LNDSL",789
+"1866",170,"Colombia",2007,126,"LNDSL",891
+"1867",170,"Colombia",2008,157,"LNDSL",1059
+"1868",170,"Colombia",2009,91,"FLOOD",1185
+"1869",170,"Colombia",2010,275,"LNDSL",1575
+"1870",170,"Colombia",2011,293,"LNDSL",1827
+"1871",170,"Colombia",2012,94,"LNDSL",855
+"1872",170,"Colombia",2013,74,"LNDSL",783
+"1873",170,"Colombia",2014,102,"LNDSL",1137
+"1874",170,"Colombia",2015,114,"FLSFL",840
+"1875",170,"Colombia",2016,25,"FLSFL",75
+"1876",170,"Colombia",2017,439,"FLSFL",1317
+"1877",174,"Comoros",2005,0,"VOLER",0
+"1878",174,"Comoros",2006,0,"VOLER",0
+"1879",174,"Comoros",2007,1,"PLGUE",3
+"1880",174,"Comoros",2008,0,"ACIDT",0
+"1881",174,"Comoros",2009,152,"ACIDT",456
+"1882",174,"Comoros",2011,121,"ACIDT",471
+"1883",174,"Comoros",2012,2,"FLOOD",6
+"1884",174,"Comoros",2013,4,"FIREX",12
+"1885",174,"Comoros",2014,2,"ELEST",15
+"1886",184,"Cook Islands",2005,0,"CYCLN",0
+"1887",184,"Cook Islands",2007,0,"CYCLN",0
+"1888",184,"Cook Islands",2009,0,"ERQAK",0
+"1889",184,"Cook Islands",2010,3,"CYCLN",9
+"1890",188,"Costa Rica",2005,5,"FLOOD",30
+"1891",188,"Costa Rica",2006,4,"EXPLN",21
+"1892",188,"Costa Rica",2007,15,"FLOOD",96
+"1893",188,"Costa Rica",2008,5,"LNDSL",36
+"1894",188,"Costa Rica",2009,23,"ERQAK",105
+"1895",188,"Costa Rica",2010,33,"LNDSL",129
+"1896",188,"Costa Rica",2011,4,"ELEST",33
+"1897",188,"Costa Rica",2012,7,"FLSFL",51
+"1898",188,"Costa Rica",2013,5,"EXPLN",36
+"1899",188,"Costa Rica",2014,6,"ELEST",36
+"1900",188,"Costa Rica",2015,5,"COSFL",24
+"1901",188,"Costa Rica",2016,11,"FLSFL",57
+"1902",188,"Costa Rica",2017,1,"WNDST",3
+"1903",191,"Croatia",2016,0,"CSOLD",0
+"1904",191,"Croatia",2017,25,"CSOLD",75
+"1905",196,"Cyprus",2005,1,"CSOLD",3
+"1906",196,"Cyprus",2006,1,"CSOLD",3
+"1907",196,"Cyprus",2007,0,"CSOLD",0
+"1908",196,"Cyprus",2008,1,"CSOLD",3
+"1909",196,"Cyprus",2009,1,"CSOLD",3
+"1910",196,"Cyprus",2010,0,"CSOLD",0
+"1911",196,"Cyprus",2011,13,"CSOLD",39
+"1912",196,"Cyprus",2012,0,"CSOLD",0
+"1913",196,"Cyprus",2013,1,"CSOLD",3
+"1914",196,"Cyprus",2014,0,"CSOLD",0
+"1915",196,"Cyprus",2015,0,"CSOLD",0
+"1916",196,"Cyprus",2016,2,"CSOLD",6
+"1917",196,"Cyprus",2017,0,"CSOLD",0
+"1918",208,"Denmark",2017,0,"CSOLD",0
+"1919",212,"Dominica",2007,2,"CYCLN",6
+"1920",212,"Dominica",2009,0,"FIREX",0
+"1921",212,"Dominica",2010,3,"LNDSL",18
+"1922",212,"Dominica",2011,2,"BIOGL",15
+"1923",212,"Dominica",2012,2,"ACIDT",9
+"1924",212,"Dominica",2013,2,"LNDSL",6
+"1925",212,"Dominica",2014,0,"FIREX",0
+"1926",218,"Ecuador",2005,24,"FIREX",204
+"1927",218,"Ecuador",2006,31,"VOLER",246
+"1928",218,"Ecuador",2007,8,"LNDSL",108
+"1929",218,"Ecuador",2008,37,"ACIDT",543
+"1930",218,"Ecuador",2009,19,"OTHER",207
+"1931",218,"Ecuador",2010,58,"ACIDT",429
+"1932",218,"Ecuador",2011,140,"OTHER",1278
+"1933",218,"Ecuador",2012,517,"ACIDT",2022
+"1934",218,"Ecuador",2013,450,"ACIDT",1908
+"1935",218,"Ecuador",2014,395,"ACIDT",1713
+"1936",218,"Ecuador",2015,368,"ACIDT",1656
+"1937",218,"Ecuador",2016,489,"ERQAK",3024
+"1938",218,"Ecuador",2017,166,"ACIDT",810
+"1939",222,"El Salvador",2005,157,"FLOOD",798
+"1940",222,"El Salvador",2006,44,"EPIDM",204
+"1941",222,"El Salvador",2007,9,"FLOOD",69
+"1942",222,"El Salvador",2008,52,"FLOOD",222
+"1943",222,"El Salvador",2009,22,"LNDSL",231
+"1944",222,"El Salvador",2010,11,"FLOOD",168
+"1945",222,"El Salvador",2011,19,"FLSFL",195
+"1946",222,"El Salvador",2012,7,"OTHER",84
+"1947",222,"El Salvador",2013,5,"FLSFL",30
+"1948",222,"El Salvador",2014,6,"OTHER",63
+"1949",222,"El Salvador",2015,3,"COSFL",15
+"1950",226,"Equatorial Guinea",2010,0,"FLOOD",0
+"1951",226,"Equatorial Guinea",2012,1,"FIREX",3
+"1952",226,"Equatorial Guinea",2013,0,"FIREX",0
+"1953",226,"Equatorial Guinea",2014,0,"FIREX",0
+"1954",226,"Equatorial Guinea",2015,4,"EPIDM",12
+"1955",226,"Equatorial Guinea",2016,11,"FIREX",33
+"1956",226,"Equatorial Guinea",2017,15,"ACIDT",51
+"1957",231,"Ethiopia",2005,456,"FLOOD",1425
+"1958",231,"Ethiopia",2006,1605,"FLOOD",5121
+"1959",231,"Ethiopia",2007,82,"FIREX",513
+"1960",231,"Ethiopia",2008,128,"FIREX",435
+"1961",231,"Ethiopia",2009,4,"FIREX",18
+"1962",231,"Ethiopia",2010,49,"LNDSL",186
+"1963",231,"Ethiopia",2011,0,"FIREX",0
+"1964",231,"Ethiopia",2012,0,"FLOOD",0
+"1965",231,"Ethiopia",2013,0,"LNDSL",0
+"1966",242,"Fiji",2005,3,"FLOOD",9
+"1967",242,"Fiji",2006,4,"CYCLN",24
+"1968",242,"Fiji",2007,73,"CYCLN",249
+"1969",242,"Fiji",2008,14,"CYCLN",42
+"1970",242,"Fiji",2009,22,"FLOOD",84
+"1971",242,"Fiji",2010,4,"CYCLN",12
+"1972",242,"Fiji",2011,1,"FLOOD",3
+"1973",242,"Fiji",2012,19,"FLOOD",84
+"1974",242,"Fiji",2013,0,"CYCLN",0
+"1975",242,"Fiji",2014,0,"FLOOD",0
+"1976",258,"French Polynesia",2007,20,"ACIDT",60
+"1977",262,"Djibouti",2005,40,"ACIDT",150
+"1978",262,"Djibouti",2006,120,"ACIDT",408
+"1979",262,"Djibouti",2007,21,"EPIDM",84
+"1980",262,"Djibouti",2008,8,"EPIDM",75
+"1981",262,"Djibouti",2009,26,"EPIDM",171
+"1982",262,"Djibouti",2010,64,"ACIDT",207
+"1983",262,"Djibouti",2011,119,"DROUG",615
+"1984",262,"Djibouti",2012,28,"ACIDT",84
+"1985",270,"Gambia",2017,2,"FIREX",12
+"1986",275,"State of Palestine",2005,0,"STCOL",0
+"1987",275,"State of Palestine",2006,1,"FLOOD",3
+"1988",275,"State of Palestine",2007,0,"FIREX",0
+"1989",275,"State of Palestine",2008,2,"COLDW",6
+"1990",275,"State of Palestine",2009,1,"FLOOD",3
+"1991",275,"State of Palestine",2010,1,"EXPLN",3
+"1992",275,"State of Palestine",2011,0,"LNDSL",0
+"1993",275,"State of Palestine",2012,0,"FIREX",0
+"1994",275,"State of Palestine",2013,3,"FLOOD",12
+"1995",276,"Germany",2017,0,"CSOLD",0
+"1996",296,"Kiribati",2008,0,"COSFL",0
+"1997",296,"Kiribati",2014,0,"COSFL",0
+"1998",308,"Grenada",2005,2,"CYCLN",6
+"1999",308,"Grenada",2007,1,"FIREX",3
+"2000",308,"Grenada",2008,0,"COSER",0
+"2001",308,"Grenada",2009,0,"BIOGL",0
+"2002",308,"Grenada",2010,0,"DROUG",0
+"2003",308,"Grenada",2011,0,"FLOOD",0
+"2004",308,"Grenada",2012,0,"STORM",0
+"2005",308,"Grenada",2014,0,"EPIDM",0
+"2006",316,"Guam",2015,0,"CYCLN",0
+"2007",320,"Guatemala",2005,1207,"HEVRN",3864
+"2008",320,"Guatemala",2006,30,"FIREX",222
+"2009",320,"Guatemala",2007,29,"LNDSL",138
+"2010",320,"Guatemala",2008,89,"LNDSL",390
+"2011",320,"Guatemala",2009,77,"LNDSL",276
+"2012",320,"Guatemala",2010,189,"HEVRN",909
+"2013",320,"Guatemala",2011,53,"LNDSL",348
+"2014",320,"Guatemala",2012,45,"ERQAK",258
+"2015",320,"Guatemala",2013,23,"LNDSL",213
+"2016",320,"Guatemala",2017,15,"CSOLD",45
+"2017",324,"Guinea",2014,1760,"PLGUE",5280
+"2018",324,"Guinea",2015,56,"PLGUE",168
+"2019",328,"Guyana",2005,23,"EPIDM",102
+"2020",328,"Guyana",2006,11,"FIREX",36
+"2021",328,"Guyana",2007,2,"FIREX",15
+"2022",328,"Guyana",2008,8,"FIREX",24
+"2023",328,"Guyana",2009,8,"FIREX",24
+"2024",328,"Guyana",2010,3,"FIREX",9
+"2025",328,"Guyana",2011,11,"FIREX",36
+"2026",328,"Guyana",2012,3,"FIREX",12
+"2027",328,"Guyana",2013,3,"CONTM",9
+"2028",340,"Honduras",2005,55,"LNDSL",354
+"2029",340,"Honduras",2006,27,"FLOOD",81
+"2030",340,"Honduras",2007,12,"FLOOD",36
+"2031",340,"Honduras",2008,273,"EPIDM",1572
+"2032",340,"Honduras",2009,8,"ERQAK",57
+"2033",340,"Honduras",2010,67,"EPIDM",423
+"2034",340,"Honduras",2011,596,"FLOOD",1914
+"2035",340,"Honduras",2012,500,"EPIDM",2982
+"2036",340,"Honduras",2013,52,"FLOOD",291
+"2037",364,"Iran (Islamic Republic of)",2005,252,"FLOOD",1938
+"2038",364,"Iran (Islamic Republic of)",2006,186,"ACIDT",933
+"2039",364,"Iran (Islamic Republic of)",2007,116,"FLOOD",1068
+"2040",364,"Iran (Islamic Republic of)",2008,167,"FLOOD",1245
+"2041",364,"Iran (Islamic Republic of)",2009,44,"FLOOD",234
+"2042",364,"Iran (Islamic Republic of)",2010,29,"ACIDT",279
+"2043",364,"Iran (Islamic Republic of)",2011,6,"FLOOD",18
+"2044",372,"Ireland",2017,3,"CSOLD",9
+"2045",388,"Jamaica",2005,9,"CYCLN",27
+"2046",388,"Jamaica",2006,44,"FIREX",135
+"2047",388,"Jamaica",2007,6,"CYCLN",18
+"2048",388,"Jamaica",2008,16,"STORM",48
+"2049",388,"Jamaica",2009,52,"FIREX",156
+"2050",388,"Jamaica",2010,17,"STORM",51
+"2051",388,"Jamaica",2011,21,"FIREX",63
+"2052",388,"Jamaica",2012,1,"CYCLN",3
+"2053",388,"Jamaica",2014,0,"FLOOD",0
+"2054",398,"Kazakhstan",2005,2,"ACIDT",18
+"2055",398,"Kazakhstan",2006,14,"ACIDT",66
+"2056",398,"Kazakhstan",2007,10,"ACIDT",51
+"2057",398,"Kazakhstan",2008,4,"FIREX",33
+"2058",398,"Kazakhstan",2009,7,"ACIDT",27
+"2059",398,"Kazakhstan",2010,4,"ACIDT",27
+"2060",398,"Kazakhstan",2011,10,"FIREX",42
+"2061",398,"Kazakhstan",2012,6,"FIREX",27
+"2062",398,"Kazakhstan",2013,4,"FIREX",18
+"2063",398,"Kazakhstan",2014,2,"DROUG",6
+"2064",398,"Kazakhstan",2015,3,"FIREX",12
+"2065",398,"Kazakhstan",2016,7,"FIREX",24
+"2066",398,"Kazakhstan",2017,29,"CSOLD",87
+"2067",400,"Jordan",2005,0,"ERQAK",0
+"2068",400,"Jordan",2006,0,"HEVRN",0
+"2069",400,"Jordan",2007,4,"FLOOD",18
+"2070",400,"Jordan",2008,13,"EPIDM",39
+"2071",400,"Jordan",2009,0,"FLSFL",0
+"2072",400,"Jordan",2010,25,"SNSTM",117
+"2073",400,"Jordan",2011,2,"STCOL",9
+"2074",400,"Jordan",2012,0,"SNSTM",0
+"2075",400,"Jordan",2016,99,"CSOLD",297
+"2076",400,"Jordan",2017,33,"CSOLD",99
+"2077",404,"Kenya",2005,11,"FLOOD",33
+"2078",404,"Kenya",2006,17,"FLOOD",51
+"2079",404,"Kenya",2007,11,"LNDSL",33
+"2080",404,"Kenya",2008,28,"FLOOD",186
+"2081",404,"Kenya",2009,201,"EPIDM",846
+"2082",404,"Kenya",2010,92,"FLOOD",462
+"2083",404,"Kenya",2011,25,"ELEST",117
+"2084",404,"Kenya",2012,23,"FLOOD",75
+"2085",404,"Kenya",2013,158,"FLOOD",543
+"2086",404,"Kenya",2014,121,"ACIDT",672
+"2087",404,"Kenya",2015,411,"ACIDT",2169
+"2088",404,"Kenya",2016,489,"ACIDT",2019
+"2089",404,"Kenya",2017,21,"ACIDT",63
+"2090",410,"Republic of Korea",2016,0,"CSOLD",0
+"2091",410,"Republic of Korea",2017,55,"CSOLD",165
+"2092",414,"Kuwait",2017,0,"CSOLD",0
+"2093",417,"Kyrgyzstan",2005,0,"ACIDT",0
+"2094",417,"Kyrgyzstan",2006,1,"AVALE",3
+"2095",417,"Kyrgyzstan",2007,0,"LNDSL",0
+"2096",417,"Kyrgyzstan",2008,7,"FIREX",39
+"2097",417,"Kyrgyzstan",2009,0,"AVALE",0
+"2098",417,"Kyrgyzstan",2010,0,"FLOOD",0
+"2099",417,"Kyrgyzstan",2011,2,"FIREX",6
+"2100",417,"Kyrgyzstan",2012,0,"LNDSL",0
+"2101",417,"Kyrgyzstan",2013,0,"PLGUE",0
+"2102",417,"Kyrgyzstan",2014,0,"PLGUE",0
+"2103",417,"Kyrgyzstan",2015,1,"AVALE",3
+"2104",417,"Kyrgyzstan",2016,1,"CYCLN",6
+"2105",418,"Lao People's Democratic Republic",2005,6,"EPIDM",57
+"2106",418,"Lao People's Democratic Republic",2006,10,"ACIDT",48
+"2107",418,"Lao People's Democratic Republic",2007,10,"ACIDT",84
+"2108",418,"Lao People's Democratic Republic",2008,30,"FLOOD",135
+"2109",418,"Lao People's Democratic Republic",2009,28,"FLOOD",177
+"2110",418,"Lao People's Democratic Republic",2010,20,"STORM",156
+"2111",418,"Lao People's Democratic Republic",2011,16,"FLOOD",90
+"2112",418,"Lao People's Democratic Republic",2012,50,"FLOOD",150
+"2113",422,"Lebanon",2005,1,"WLDFR",3
+"2114",422,"Lebanon",2006,3,"SNSTM",15
+"2115",422,"Lebanon",2007,0,"EROSN",0
+"2116",422,"Lebanon",2008,3,"SNSTM",12
+"2117",422,"Lebanon",2009,0,"EROSN",0
+"2118",422,"Lebanon",2010,0,"SNSTM",0
+"2119",422,"Lebanon",2011,0,"FLOOD",0
+"2120",422,"Lebanon",2012,1,"STORM",3
+"2121",422,"Lebanon",2013,1,"SNSTM",3
+"2122",422,"Lebanon",2014,0,"FLOOD",0
+"2123",430,"Liberia",2014,3441,"EPIDM",10323
+"2124",430,"Liberia",2015,41,"EPIDM",123
+"2125",430,"Liberia",2016,0,"ANIAK",0
+"2126",450,"Madagascar",2005,295,"CYCLN",945
+"2127",450,"Madagascar",2006,19,"CYCLN",57
+"2128",450,"Madagascar",2007,181,"CYCLN",543
+"2129",450,"Madagascar",2008,282,"CYCLN",939
+"2130",450,"Madagascar",2009,40,"FIREX",231
+"2131",450,"Madagascar",2010,131,"CYCLN",534
+"2132",450,"Madagascar",2011,90,"EPIDM",372
+"2133",450,"Madagascar",2012,117,"CYCLN",516
+"2134",450,"Madagascar",2013,61,"EPIDM",345
+"2135",450,"Madagascar",2014,89,"EPIDM",384
+"2136",450,"Madagascar",2015,103,"DROUG",672
+"2137",454,"Malawi",2017,0,"CSOLD",0
+"2138",458,"Malaysia",2016,0,"CSOLD",0
+"2139",458,"Malaysia",2017,31,"CSOLD",93
+"2140",462,"Maldives",2005,1,"FIREX",3
+"2141",462,"Maldives",2006,22,"ACIDT",69
+"2142",462,"Maldives",2007,1,"FIREX",3
+"2143",462,"Maldives",2008,3,"ACIDT",12
+"2144",462,"Maldives",2017,0,"CSOLD",0
+"2145",466,"Mali",2005,16,"EPIDM",69
+"2146",466,"Mali",2006,4,"EPIDM",24
+"2147",466,"Mali",2007,65,"EPIDM",231
+"2148",466,"Mali",2008,37,"EPIDM",129
+"2149",466,"Mali",2009,31,"FLOOD",93
+"2150",466,"Mali",2010,131,"FLOOD",396
+"2151",466,"Mali",2011,24,"EPIDM",99
+"2152",466,"Mali",2012,21,"FLOOD",63
+"2153",466,"Mali",2013,61,"FLOOD",183
+"2154",466,"Mali",2014,17,"FLOOD",51
+"2155",480,"Mauritius",2005,7,"ACIDT",24
+"2156",480,"Mauritius",2006,4,"FIREX",21
+"2157",480,"Mauritius",2007,132,"ACIDT",477
+"2158",480,"Mauritius",2008,10,"ACIDT",72
+"2159",480,"Mauritius",2009,139,"ACIDT",459
+"2160",480,"Mauritius",2010,137,"ACIDT",426
+"2161",480,"Mauritius",2011,5,"FIREX",24
+"2162",480,"Mauritius",2012,134,"ACIDT",429
+"2163",480,"Mauritius",2013,22,"FLSFL",78
+"2164",480,"Mauritius",2014,10,"ACIDT",30
+"2165",484,"Mexico",2005,150,"FLOOD",3459
+"2166",484,"Mexico",2006,228,"FROST",3258
+"2167",484,"Mexico",2007,202,"ACIDT",3537
+"2168",484,"Mexico",2008,4001,"CONTM",14262
+"2169",484,"Mexico",2009,877,"EPIDM",3831
+"2170",484,"Mexico",2010,291,"LNDSL",3747
+"2171",484,"Mexico",2011,113,"FIREX",1890
+"2172",484,"Mexico",2012,81,"FIREX",1032
+"2173",484,"Mexico",2013,200,"CONTM",3132
+"2174",484,"Mexico",2017,814,"CSOLD",2442
+"2175",496,"Mongolia",2006,78,"ACIDT",315
+"2176",496,"Mongolia",2007,6,"STORM",24
+"2177",496,"Mongolia",2008,111,"ACIDT",570
+"2178",496,"Mongolia",2009,0,"ACIDT",0
+"2179",496,"Mongolia",2010,130,"ACIDT",444
+"2180",496,"Mongolia",2012,128,"ACIDT",465
+"2181",496,"Mongolia",2013,2,"FIREX",6
+"2182",496,"Mongolia",2014,87,"ACIDT",288
+"2183",496,"Mongolia",2015,54,"ACIDT",189
+"2184",496,"Mongolia",2016,1,"ACIDT",6
+"2185",504,"Morocco",2005,0,"FIREX",0
+"2186",504,"Morocco",2006,0,"WLDFR",0
+"2187",504,"Morocco",2007,0,"FLOOD",0
+"2188",504,"Morocco",2008,58,"FIREX",177
+"2189",504,"Morocco",2009,102,"FLOOD",306
+"2190",504,"Morocco",2010,46,"FLOOD",138
+"2191",504,"Morocco",2011,8,"FLOOD",24
+"2192",504,"Morocco",2012,3,"FLOOD",9
+"2193",504,"Morocco",2013,3,"FIREX",15
+"2194",504,"Morocco",2014,1,"FLOOD",3
+"2195",508,"Mozambique",2005,1041,"EPIDM",3741
+"2196",508,"Mozambique",2006,712,"EPIDM",2733
+"2197",508,"Mozambique",2007,734,"EPIDM",3273
+"2198",508,"Mozambique",2008,885,"EPIDM",3609
+"2199",508,"Mozambique",2009,468,"EPIDM",1884
+"2200",508,"Mozambique",2010,5,"EPIDM",57
+"2201",508,"Mozambique",2011,6,"FLSFL",57
+"2202",508,"Mozambique",2012,18,"FLSFL",84
+"2203",508,"Mozambique",2017,31,"CSOLD",93
+"2204",524,"Nepal",2005,132,"ACIDT",1299
+"2205",524,"Nepal",2006,267,"EPIDM",2100
+"2206",524,"Nepal",2007,226,"EPIDM",2187
+"2207",524,"Nepal",2008,282,"ACIDT",3183
+"2208",524,"Nepal",2009,446,"EPIDM",4200
+"2209",524,"Nepal",2010,447,"ACIDT",3432
+"2210",524,"Nepal",2011,444,"ACIDT",3486
+"2211",524,"Nepal",2012,338,"ACIDT",2760
+"2212",524,"Nepal",2013,168,"ACIDT",2211
+"2213",540,"New Caledonia",2008,0,"ERQAK",0
+"2214",540,"New Caledonia",2009,4,"EPIDM",12
+"2215",540,"New Caledonia",2011,3,"EPIDM",9
+"2216",548,"Vanuatu",2005,0,"VOLER",0
+"2217",548,"Vanuatu",2006,2,"VOLER",6
+"2218",548,"Vanuatu",2007,0,"TSUNM",0
+"2219",548,"Vanuatu",2008,0,"ERQAK",0
+"2220",548,"Vanuatu",2009,0,"ERQAK",0
+"2221",548,"Vanuatu",2010,0,"ERQAK",0
+"2222",548,"Vanuatu",2011,1,"CYCLN",3
+"2223",548,"Vanuatu",2012,0,"CYCLN",0
+"2224",548,"Vanuatu",2014,12,"CYCLN",39
+"2225",548,"Vanuatu",2015,11,"CYCLN",33
+"2226",554,"New Zealand",2017,1,"CSOLD",3
+"2227",558,"Nicaragua",2005,6,"COSFL",27
+"2228",558,"Nicaragua",2006,44,"CONTM",138
+"2229",558,"Nicaragua",2007,1341,"FLOOD",4053
+"2230",558,"Nicaragua",2008,13,"FLOOD",81
+"2231",558,"Nicaragua",2009,3,"FLOOD",18
+"2232",558,"Nicaragua",2010,13,"FLOOD",72
+"2233",558,"Nicaragua",2011,11,"FLOOD",45
+"2234",558,"Nicaragua",2012,5,"FLSFL",54
+"2235",558,"Nicaragua",2013,21,"EPIDM",117
+"2236",562,"Niger",2005,218,"EPIDM",654
+"2237",562,"Niger",2006,502,"EPIDM",1518
+"2238",562,"Niger",2007,256,"EPIDM",777
+"2239",562,"Niger",2008,576,"EPIDM",1734
+"2240",562,"Niger",2009,888,"EPIDM",2664
+"2241",562,"Niger",2010,882,"EPIDM",2658
+"2242",562,"Niger",2011,668,"EPIDM",2103
+"2243",562,"Niger",2012,438,"EPIDM",1650
+"2244",562,"Niger",2013,384,"EPIDM",1278
+"2245",562,"Niger",2014,0,"EPIZT",0
+"2246",570,"Niue",2012,0,"CYCLN",0
+"2247",578,"Norway",2017,0,"CSOLD",0
+"2248",580,"Northern Mariana Islands",2014,0,"OTHER",0
+"2249",580,"Northern Mariana Islands",2015,0,"CYCLN",0
+"2250",583,"Micronesia (Federated States of)",2006,0,"CYCLN",0
+"2251",583,"Micronesia (Federated States of)",2008,0,"COSFL",0
+"2252",583,"Micronesia (Federated States of)",2009,0,"TSUNM",0
+"2253",583,"Micronesia (Federated States of)",2011,2,"EPIDM",6
+"2254",583,"Micronesia (Federated States of)",2015,10,"CYCLN",30
+"2255",584,"Marshall Islands",2006,0,"FIREX",0
+"2256",584,"Marshall Islands",2008,0,"CYCLN",0
+"2257",584,"Marshall Islands",2011,0,"EPIDM",0
+"2258",584,"Marshall Islands",2013,0,"DROUG",0
+"2259",584,"Marshall Islands",2014,0,"COSFL",0
+"2260",585,"Palau",2006,0,"CYCLN",0
+"2261",585,"Palau",2007,0,"ERQAK",0
+"2262",585,"Palau",2009,0,"TSUNM",0
+"2263",585,"Palau",2011,0,"TECHH",0
+"2264",585,"Palau",2012,0,"CYCLN",0
+"2265",586,"Pakistan",2005,38330,"ERQAK",140382
+"2266",586,"Pakistan",2006,855687,"FLOOD",2583705
+"2267",586,"Pakistan",2007,1541,"HEVRN",14424
+"2268",586,"Pakistan",2008,2455,"FLOOD",25254
+"2269",586,"Pakistan",2009,2208,"FLOOD",21150
+"2270",586,"Pakistan",2010,1177,"FLOOD",16260
+"2271",586,"Pakistan",2011,995,"HEVRN",8025
+"2272",586,"Pakistan",2012,1656,"FLOOD",10509
+"2273",586,"Pakistan",2013,1735,"FLOOD",11841
+"2274",586,"Pakistan",2014,729,"HEVRN",4728
+"2275",591,"Panama",2005,12,"ACIDT",39
+"2276",591,"Panama",2006,7,"FLOOD",33
+"2277",591,"Panama",2007,30,"ACIDT",99
+"2278",591,"Panama",2008,84,"ACIDT",429
+"2279",591,"Panama",2009,76,"ACIDT",282
+"2280",591,"Panama",2010,41,"ACIDT",201
+"2281",591,"Panama",2011,74,"ACIDT",243
+"2282",591,"Panama",2012,32,"ACIDT",150
+"2283",591,"Panama",2013,65,"ACIDT",198
+"2284",591,"Panama",2014,65,"ACIDT",333
+"2285",591,"Panama",2015,12,"ACIDT",39
+"2286",591,"Panama",2016,46,"ACIDT",150
+"2287",591,"Panama",2017,8,"ACIDT",24
+"2288",598,"Papua New Guinea",2005,2,"ERQAK",12
+"2289",598,"Papua New Guinea",2006,54,"LNDSL",189
+"2290",598,"Papua New Guinea",2007,344,"CYCLN",1539
+"2291",598,"Papua New Guinea",2008,20,"LNDSL",72
+"2292",598,"Papua New Guinea",2009,336,"EPIDM",1137
+"2293",598,"Papua New Guinea",2010,16,"EPIDM",48
+"2294",598,"Papua New Guinea",2011,1,"TECHH",3
+"2295",598,"Papua New Guinea",2012,60,"LNDSL",195
+"2296",598,"Papua New Guinea",2013,10,"FLOOD",30
+"2297",598,"Papua New Guinea",2014,10,"EPIDM",30
+"2298",598,"Papua New Guinea",2015,24,"OTHER",90
+"2299",600,"Paraguay",2005,1,"DROUG",6
+"2300",600,"Paraguay",2006,2,"STORM",6
+"2301",600,"Paraguay",2007,8,"WLDFR",57
+"2302",600,"Paraguay",2008,20,"FLOOD",138
+"2303",600,"Paraguay",2009,4,"FIREX",45
+"2304",600,"Paraguay",2010,5,"FIREX",63
+"2305",600,"Paraguay",2011,20,"EPIDM",75
+"2306",600,"Paraguay",2012,10,"FLOOD",78
+"2307",600,"Paraguay",2013,2,"FROST",12
+"2308",600,"Paraguay",2014,2,"ACIDT",24
+"2309",600,"Paraguay",2015,3,"ACIDT",27
+"2310",600,"Paraguay",2016,12,"FIREX",54
+"2311",600,"Paraguay",2017,0,"FROST",0
+"2312",604,"Peru",2005,25,"LNDSL",306
+"2313",604,"Peru",2006,90,"ACIDT",699
+"2314",604,"Peru",2007,577,"ERQAK",2394
+"2315",604,"Peru",2008,99,"ALLUV",681
+"2316",604,"Peru",2009,65,"ACIDT",819
+"2317",604,"Peru",2010,89,"ALLUV",633
+"2318",604,"Peru",2011,19,"LNDSL",162
+"2319",604,"Peru",2012,24,"COLDW",171
+"2320",604,"Peru",2013,132,"EPIDM",861
+"2321",620,"Portugal",2017,0,"CSOLD",0
+"2322",624,"Guinea-Bissau",2017,29,"ACIDT",129
+"2323",626,"Timor-Leste",2006,0,"WNDST",0
+"2324",626,"Timor-Leste",2007,1,"FLOOD",3
+"2325",626,"Timor-Leste",2008,0,"WNDST",0
+"2326",626,"Timor-Leste",2009,3,"FLOOD",12
+"2327",626,"Timor-Leste",2010,8,"FLOOD",30
+"2328",626,"Timor-Leste",2011,3,"WNDST",12
+"2329",626,"Timor-Leste",2012,5,"FLOOD",30
+"2330",626,"Timor-Leste",2013,6,"LNDSL",54
+"2331",626,"Timor-Leste",2014,3,"FIREX",9
+"2332",626,"Timor-Leste",2015,34,"FLOOD",219
+"2333",626,"Timor-Leste",2016,2,"ACIDT",9
+"2334",626,"Timor-Leste",2017,2,"FLOOD",6
+"2335",646,"Rwanda",2016,23,"ELEST",105
+"2336",659,"Saint Kitts and Nevis",2005,0,"FIREX",0
+"2337",659,"Saint Kitts and Nevis",2006,2,"FIREX",6
+"2338",659,"Saint Kitts and Nevis",2007,4,"ACIDT",12
+"2339",659,"Saint Kitts and Nevis",2008,1,"STCOL",3
+"2340",659,"Saint Kitts and Nevis",2010,2,"FIREX",6
+"2341",659,"Saint Kitts and Nevis",2011,1,"FIREX",3
+"2342",659,"Saint Kitts and Nevis",2012,0,"HEVRN",0
+"2343",659,"Saint Kitts and Nevis",2013,0,"BIOGL",0
+"2344",659,"Saint Kitts and Nevis",2014,2,"ACIDT",6
+"2345",662,"Saint Lucia",2006,0,"LNDSL",0
+"2346",662,"Saint Lucia",2007,1,"CYCLN",3
+"2347",662,"Saint Lucia",2008,0,"COSER",0
+"2348",662,"Saint Lucia",2009,3,"FIREX",9
+"2349",662,"Saint Lucia",2010,12,"CYCLN",36
+"2350",662,"Saint Lucia",2011,19,"ACIDT",60
+"2351",662,"Saint Lucia",2012,0,"STORM",0
+"2352",662,"Saint Lucia",2013,5,"FLOOD",15
+"2353",662,"Saint Lucia",2014,0,"OTHER",0
+"2354",670,"Saint Vincent and the Grenadines",2005,2,"LNDSL",6
+"2355",670,"Saint Vincent and the Grenadines",2006,0,"OTHER",0
+"2356",670,"Saint Vincent and the Grenadines",2007,0,"STORM",0
+"2357",670,"Saint Vincent and the Grenadines",2008,1,"LNDSL",3
+"2358",670,"Saint Vincent and the Grenadines",2009,0,"LNDSL",0
+"2359",670,"Saint Vincent and the Grenadines",2010,0,"CYCLN",0
+"2360",670,"Saint Vincent and the Grenadines",2011,0,"LNDSL",0
+"2361",670,"Saint Vincent and the Grenadines",2012,0,"BIOGL",0
+"2362",670,"Saint Vincent and the Grenadines",2013,12,"FLSFL",36
+"2363",670,"Saint Vincent and the Grenadines",2014,0,"DROUG",0
+"2364",686,"Senegal",2005,31,"ACIDT",243
+"2365",686,"Senegal",2006,40,"ACIDT",225
+"2366",686,"Senegal",2007,65,"ACIDT",339
+"2367",686,"Senegal",2008,23,"ACIDT",132
+"2368",686,"Senegal",2009,35,"ACIDT",219
+"2369",686,"Senegal",2010,163,"ACIDT",651
+"2370",686,"Senegal",2011,91,"ACIDT",591
+"2371",686,"Senegal",2012,169,"ACIDT",897
+"2372",686,"Senegal",2013,314,"ACIDT",2049
+"2373",686,"Senegal",2014,279,"FOGXX",1800
+"2374",686,"Senegal",2015,2,"FLOOD",12
+"2375",688,"Serbia",2005,0,"FLOOD",0
+"2376",688,"Serbia",2006,0,"FLOOD",0
+"2377",688,"Serbia",2007,0,"DROUG",0
+"2378",688,"Serbia",2008,0,"HAILS",0
+"2379",688,"Serbia",2009,0,"HAILS",0
+"2380",688,"Serbia",2010,8,"FLOOD",39
+"2381",688,"Serbia",2011,9,"LNDSL",30
+"2382",688,"Serbia",2012,19,"SNSTM",93
+"2383",688,"Serbia",2013,0,"FLOOD",0
+"2384",688,"Serbia",2014,13,"FLOOD",39
+"2385",688,"Serbia",2015,0,"WNDST",0
+"2386",688,"Serbia",2016,1,"FLOOD",3
+"2387",688,"Serbia",2017,0,"FLOOD",0
+"2388",690,"Seychelles",2005,0,"HEVRN",0
+"2389",690,"Seychelles",2006,0,"HEVRN",0
+"2390",690,"Seychelles",2007,0,"COSFL",0
+"2391",690,"Seychelles",2008,0,"LNDSL",0
+"2392",690,"Seychelles",2009,0,"STORM",0
+"2393",690,"Seychelles",2010,0,"FIREX",0
+"2394",690,"Seychelles",2011,2,"ANIAK",6
+"2395",690,"Seychelles",2012,0,"WNDST",0
+"2396",690,"Seychelles",2013,0,"FLOOD",0
+"2397",690,"Seychelles",2014,0,"LNDSL",0
+"2398",694,"Sierra Leone",2006,3,"FIREX",9
+"2399",694,"Sierra Leone",2009,27,"EPIDM",171
+"2400",694,"Sierra Leone",2010,22,"ACIDT",177
+"2401",694,"Sierra Leone",2011,33,"ACIDT",138
+"2402",694,"Sierra Leone",2012,190,"ACIDT",771
+"2403",694,"Sierra Leone",2013,137,"ACIDT",561
+"2404",694,"Sierra Leone",2014,256,"EPIDM",900
+"2405",694,"Sierra Leone",2015,906,"EPIDM",2742
+"2406",703,"Slovakia",2017,0,"CSOLD",0
+"2407",704,"Viet Nam",2005,493,"FLOOD",2094
+"2408",704,"Viet Nam",2006,446,"STORM",1755
+"2409",704,"Viet Nam",2007,294,"FLOOD",1245
+"2410",704,"Viet Nam",2008,429,"FLOOD",1920
+"2411",704,"Viet Nam",2009,306,"FLOOD",924
+"2412",704,"Viet Nam",2010,72,"HEVRN",276
+"2413",705,"Slovenia",2016,0,"CSOLD",0
+"2414",705,"Slovenia",2017,0,"CSOLD",0
+"2415",706,"Somalia",2017,0,"CSOLD",0
+"2416",710,"South Africa",2017,0,"CSOLD",0
+"2417",724,"Spain",2005,0,"STORM",0
+"2418",724,"Spain",2006,4,"FLOOD",18
+"2419",724,"Spain",2007,7,"STORM",27
+"2420",724,"Spain",2008,2,"FLOOD",12
+"2421",724,"Spain",2009,4,"STORM",15
+"2422",724,"Spain",2010,5,"FLOOD",15
+"2423",748,"Eswatini",2015,0,"DROUG",0
+"2424",748,"Eswatini",2016,1,"WNDST",3
+"2425",748,"Eswatini",2017,0,"CYCLN",0
+"2426",752,"Sweden",2017,0,"CSOLD",0
+"2427",756,"Switzerland",2017,8,"CSOLD",24
+"2428",760,"Syrian Arab Republic",2005,18,"FIREX",72
+"2429",760,"Syrian Arab Republic",2006,57,"FIREX",207
+"2430",760,"Syrian Arab Republic",2007,137,"FIREX",471
+"2431",760,"Syrian Arab Republic",2008,233,"FIREX",744
+"2432",760,"Syrian Arab Republic",2009,48,"FIREX",156
+"2433",768,"Togo",2005,4,"ELEST",21
+"2434",768,"Togo",2006,12,"EPIDM",36
+"2435",768,"Togo",2007,183,"FLOOD",654
+"2436",768,"Togo",2008,19,"FLOOD",57
+"2437",768,"Togo",2009,82,"FIREX",261
+"2438",768,"Togo",2010,150,"FIREX",471
+"2439",768,"Togo",2011,200,"FIREX",666
+"2440",768,"Togo",2012,3,"FLOOD",15
+"2441",768,"Togo",2013,1194,"FLOOD",3636
+"2442",768,"Togo",2014,130,"FLOOD",483
+"2443",772,"Tokelau",2005,0,"CYCLN",0
+"2444",772,"Tokelau",2009,0,"EPIDM",0
+"2445",772,"Tokelau",2011,0,"DROUG",0
+"2446",776,"Tonga",2005,0,"CYCLN",0
+"2447",776,"Tonga",2006,0,"TSUNM",0
+"2448",776,"Tonga",2008,0,"FLOOD",0
+"2449",776,"Tonga",2009,79,"TECHH",291
+"2450",776,"Tonga",2010,0,"ERQAK",0
+"2451",776,"Tonga",2011,0,"ERQAK",0
+"2452",776,"Tonga",2012,0,"CYCLN",0
+"2453",776,"Tonga",2014,1,"CYCLN",3
+"2454",780,"Trinidad and Tobago",2005,2,"EXPLN",6
+"2455",780,"Trinidad and Tobago",2006,0,"FLOOD",0
+"2456",780,"Trinidad and Tobago",2007,0,"WNDST",0
+"2457",780,"Trinidad and Tobago",2008,1,"FLOOD",3
+"2458",780,"Trinidad and Tobago",2009,1,"EPIDM",3
+"2459",780,"Trinidad and Tobago",2010,1,"FLOOD",3
+"2460",780,"Trinidad and Tobago",2011,0,"ACIDT",0
+"2461",780,"Trinidad and Tobago",2012,0,"ELEST",0
+"2462",780,"Trinidad and Tobago",2013,0,"ACIDT",0
+"2463",780,"Trinidad and Tobago",2014,0,"ACIDT",0
+"2464",788,"Tunisia",2005,2,"FIREX",6
+"2465",788,"Tunisia",2006,8,"STCOL",24
+"2466",788,"Tunisia",2007,13,"FLOOD",66
+"2467",788,"Tunisia",2008,1,"FIREX",3
+"2468",788,"Tunisia",2009,129,"FLOOD",633
+"2469",788,"Tunisia",2010,6,"EPIDM",18
+"2470",788,"Tunisia",2011,40,"FIREX",159
+"2471",788,"Tunisia",2012,15,"EPIDM",108
+"2472",788,"Tunisia",2013,1,"EPIDM",6
+"2473",792,"Turkey",2005,48,"ACIDT",249
+"2474",792,"Turkey",2006,123,"ACIDT",480
+"2475",792,"Turkey",2007,155,"ACIDT",546
+"2476",792,"Turkey",2008,61,"ACIDT",288
+"2477",792,"Turkey",2009,49,"ACIDT",345
+"2478",792,"Turkey",2010,81,"ACIDT",537
+"2479",792,"Turkey",2011,687,"ERQAK",2286
+"2480",792,"Turkey",2012,83,"ACIDT",303
+"2481",792,"Turkey",2013,127,"ACIDT",501
+"2482",792,"Turkey",2014,146,"ACIDT",492
+"2483",792,"Turkey",2017,0,"CSOLD",0
+"2484",798,"Tuvalu",2008,0,"ERQAK",0
+"2485",798,"Tuvalu",2011,0,"DROUG",0
+"2486",798,"Tuvalu",2015,0,"COSFL",0
+"2487",800,"Uganda",2005,53,"EPIDM",219
+"2488",800,"Uganda",2006,284,"EPIDM",903
+"2489",800,"Uganda",2007,177,"EPIDM",654
+"2490",800,"Uganda",2008,145,"EPIDM",489
+"2491",800,"Uganda",2009,20,"DROUG",165
+"2492",800,"Uganda",2010,1939,"LNDSL",5931
+"2493",800,"Uganda",2011,238,"EPIDM",1656
+"2494",800,"Uganda",2012,8,"LNDSL",45
+"2495",800,"Uganda",2013,15,"ACIDT",102
+"2496",800,"Uganda",2014,5,"HEVRN",21
+"2497",800,"Uganda",2015,1,"FIREX",3
+"2498",800,"Uganda",2016,4,"FLOOD",18
+"2499",800,"Uganda",2017,0,"STORM",0
+"2500",804,"Ukraine",2005,0,"CSOLD",0
+"2501",804,"Ukraine",2006,0,"CSOLD",0
+"2502",804,"Ukraine",2007,0,"CSOLD",0
+"2503",804,"Ukraine",2008,0,"CSOLD",0
+"2504",804,"Ukraine",2009,0,"CSOLD",0
+"2505",804,"Ukraine",2010,0,"CSOLD",0
+"2506",804,"Ukraine",2011,0,"CSOLD",0
+"2507",804,"Ukraine",2012,0,"CSOLD",0
+"2508",804,"Ukraine",2013,0,"CSOLD",0
+"2509",804,"Ukraine",2014,0,"CSOLD",0
+"2510",804,"Ukraine",2015,0,"CSOLD",0
+"2511",804,"Ukraine",2016,4,"CSOLD",12
+"2512",804,"Ukraine",2017,1,"CSOLD",3
+"2513",818,"Egypt",2016,2246,"CSOLD",6738
+"2514",818,"Egypt",2017,1362,"CSOLD",4086
+"2515",834,"United Republic of Tanzania",2005,0,"EPIDM",0
+"2516",834,"United Republic of Tanzania",2006,2,"EPIDM",6
+"2517",834,"United Republic of Tanzania",2007,33,"ACIDT",99
+"2518",834,"United Republic of Tanzania",2008,7,"ACIDT",21
+"2519",834,"United Republic of Tanzania",2009,23,"ACIDT",69
+"2520",834,"United Republic of Tanzania",2010,186,"ACIDT",561
+"2521",834,"United Republic of Tanzania",2011,1542,"ACIDT",4626
+"2522",834,"United Republic of Tanzania",2012,430,"ACIDT",1290
+"2523",834,"United Republic of Tanzania",2013,10,"ACIDT",30
+"2524",834,"United Republic of Tanzania",2014,26,"ACIDT",78
+"2525",854,"Burkina Faso",2005,773,"EPIDM",2319
+"2526",854,"Burkina Faso",2006,1677,"EPIDM",5034
+"2527",854,"Burkina Faso",2007,1884,"EPIDM",5892
+"2528",854,"Burkina Faso",2008,1241,"FLOOD",7242
+"2529",854,"Burkina Faso",2009,678,"EPIDM",2328
+"2530",854,"Burkina Faso",2010,989,"EPIDM",3228
+"2531",854,"Burkina Faso",2011,588,"EPIDM",2145
+"2532",854,"Burkina Faso",2012,753,"EPIDM",2403
+"2533",854,"Burkina Faso",2013,332,"EPIDM",1512
+"2534",854,"Burkina Faso",2014,358,"EPIDM",1329
+"2535",854,"Burkina Faso",2015,287,"EPIDM",861
+"2536",854,"Burkina Faso",2016,2,"EPIDM",6
+"2537",858,"Uruguay",2005,53,"STORM",219
+"2538",858,"Uruguay",2006,12,"STORM",45
+"2539",858,"Uruguay",2007,14,"FIREX",69
+"2540",858,"Uruguay",2008,14,"FIREX",99
+"2541",858,"Uruguay",2009,45,"EPIDM",192
+"2542",858,"Uruguay",2010,5,"ACIDT",69
+"2543",858,"Uruguay",2011,32,"FIREX",162
+"2544",858,"Uruguay",2012,24,"STORM",135
+"2545",858,"Uruguay",2013,18,"FIREX",90
+"2546",858,"Uruguay",2014,2,"STORM",9
+"2547",860,"Uzbekistan",2017,0,"CSOLD",0
+"2548",862,"Venezuela (Bolivarian Republic of)",2005,165,"ACIDT",1179
+"2549",862,"Venezuela (Bolivarian Republic of)",2006,46,"CONTM",405
+"2550",862,"Venezuela (Bolivarian Republic of)",2007,19,"ACIDT",222
+"2551",862,"Venezuela (Bolivarian Republic of)",2008,11,"FIREX",99
+"2552",862,"Venezuela (Bolivarian Republic of)",2009,11,"CONTM",93
+"2553",862,"Venezuela (Bolivarian Republic of)",2010,19,"ACIDT",132
+"2554",862,"Venezuela (Bolivarian Republic of)",2011,9,"FLOOD",66
+"2555",862,"Venezuela (Bolivarian Republic of)",2012,51,"ACIDT",333
+"2556",862,"Venezuela (Bolivarian Republic of)",2013,15,"ACIDT",66
+"2557",862,"Venezuela (Bolivarian Republic of)",2014,29,"ACIDT",183
+"2558",862,"Venezuela (Bolivarian Republic of)",2015,9,"FIREX",54
+"2559",876,"Wallis and Futuna Islands",2009,0,"ERQAK",0
+"2560",882,"Samoa",2005,18,"CYCLN",54
+"2561",882,"Samoa",2006,0,"TSUNM",0
+"2562",882,"Samoa",2008,0,"FIREX",0
+"2563",882,"Samoa",2009,241,"TSUNM",1161
+"2564",882,"Samoa",2011,0,"ERQAK",0
+"2565",882,"Samoa",2012,0,"CYCLN",0
+"2566",882,"Samoa",2013,0,"CYCLN",0
+"2567",882,"Samoa",2014,1,"FLOOD",3
+"2568",882,"Samoa",2015,0,"CYCLN",0
+"2569",887,"Yemen",2005,80,"ELEST",498
+"2570",887,"Yemen",2006,40,"ELEST",213
+"2571",887,"Yemen",2007,260,"EPIDM",1272
+"2572",887,"Yemen",2008,167,"EPIDM",873
+"2573",887,"Yemen",2009,597,"EPIDM",1851
+"2574",887,"Yemen",2010,91,"LIQFN",468
